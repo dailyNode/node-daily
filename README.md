@@ -1,10 +1,3 @@
-node-daily
-==========
-
-daily article for node
-
-
-
 ## 收集一些Node方面的可读性文章
 
 * [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
