@@ -94,4 +94,5 @@
 * [superagent的官方](http://visionmedia.github.io/superagent/)
 * [SuperAgent中文使用文档 - 来自cnode](http://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
 * [Socket.IO 1.1.0](http://socket.io/blog/socket-io-1-1-0)
+* [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
 
