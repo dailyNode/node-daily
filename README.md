@@ -90,4 +90,5 @@
 * [http请求headers的顺序](http://cnodejs.org/topic/5060722e01d0b80148172f55)
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
 * [LivePool：基于 NodeJs 的跨平台 Web 抓包替换工具](http://www.alloyteam.com/2014/07/nodejs-debug-proxy-livepool/)
+* [How to make an HTTP POST request in node.js?](http://stackoverflow.com/questions/6158933/how-to-make-an-http-post-request-in-node-js)
 
