@@ -93,4 +93,5 @@
 * [How to make an HTTP POST request in node.js?](http://stackoverflow.com/questions/6158933/how-to-make-an-http-post-request-in-node-js)
 * [superagent的官方](http://visionmedia.github.io/superagent/)
 * [SuperAgent中文使用文档 - 来自cnode](http://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
+* [Socket.IO 1.1.0](http://socket.io/blog/socket-io-1-1-0)
 
