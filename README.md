@@ -81,6 +81,7 @@
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
 * [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
 * [7 Tips for a Node.js Padawan](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/)
+* [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
 * [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 * [task automation with npm run](http://substack.net/task_automation_with_npm_run)
 * [Harp 是一个基于 Node.js 平台的静态 Web 服务器](http://www.html5cn.org/article-5842-1.html)
