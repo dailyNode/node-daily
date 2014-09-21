@@ -105,4 +105,5 @@
 * [gitignore.io](https://www.gitignore.io)
 * [基于NodeJS的14款Web框架](http://www.csdn.net/article/2014-03-25/2818964-web-application-frameworks-for-node-js)
 * [Comet：基于 HTTP 长连接的“服务器推”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
+* [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
 
