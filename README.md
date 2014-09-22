@@ -108,4 +108,5 @@
 * [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
 * [Haraka - A modern, high performance, flexible SMTP server](http://haraka.github.io/)
 * [how to write node programs with streams](https://github.com/substack/stream-handbook)
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 
