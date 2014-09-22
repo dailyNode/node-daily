@@ -107,4 +107,5 @@
 * [Comet：基于 HTTP 长连接的“服务器推”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
 * [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
 * [Haraka - A modern, high performance, flexible SMTP server](http://haraka.github.io/)
+* [how to write node programs with streams](https://github.com/substack/stream-handbook)
 
