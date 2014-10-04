@@ -110,4 +110,5 @@
 * [how to write node programs with streams](https://github.com/substack/stream-handbook)
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 * [Node.js: Style and structure](http://caolanmcmahon.com/posts/nodejs_style_and_structure/)
+* [Secret Express.js Settings](http://webapplog.com/secret-express-js-settings/)
 
