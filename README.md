@@ -112,4 +112,5 @@
 * [Node.js: Style and structure](http://caolanmcmahon.com/posts/nodejs_style_and_structure/)
 * [Secret Express.js Settings](http://webapplog.com/secret-express-js-settings/)
 * [helmet - Collection of middleware to implement various security headers for Express / Connect](https://github.com/evilpacket/helmet)
+* [选择Nodejs的N个理由](http://www.infoq.com/cn/news/2014/09/choose-nodejs)
 
