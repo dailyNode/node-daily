@@ -113,4 +113,5 @@
 * [Secret Express.js Settings](http://webapplog.com/secret-express-js-settings/)
 * [helmet - Collection of middleware to implement various security headers for Express / Connect](https://github.com/evilpacket/helmet)
 * [选择Nodejs的N个理由](http://www.infoq.com/cn/news/2014/09/choose-nodejs)
+* [NPM发布2.0版，增加了私有Node.js模块管理及其它特性](http://www.infoq.com/cn/news/2014/09/npm2-whats-new)
 
