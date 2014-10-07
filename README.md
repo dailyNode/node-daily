@@ -116,3 +116,4 @@
 * [选择Nodejs的N个理由](http://www.infoq.com/cn/news/2014/09/choose-nodejs)
 * [NPM发布2.0版，增加了私有Node.js模块管理及其它特性](http://www.infoq.com/cn/news/2014/09/npm2-whats-new)
 * [npm@2.0.0](http://blog.npmjs.org/post/98131109725/npm-2-0-0)
+* [Create a Node.js Application on Azure with MongoDB using the MongoLab Add-On](http://azure.microsoft.com/zh-cn/documentation/articles/store-mongolab-web-sites-nodejs-store-data-mongodb/)
