@@ -121,3 +121,4 @@
 * [Simple hosted private npm and registry.nodejitsu.com](https://blog.nodejitsu.com/simple-hosted-private-npm-and-registry-nodejitsu-com/)
 * [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
 * [From Java To Node.js](http://www.slideshare.net/cliffano/from-java-to-nodejs)
+* [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
