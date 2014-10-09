@@ -130,3 +130,4 @@
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
 * [Wrapping NPM Packages for Meteor](https://www.discovermeteor.com/blog/wrapping-npm-packages/)
 * [Buster.JS overview](http://docs.busterjs.org/en/latest/overview/#node-testing)
+* [3 Essential Sublime Text Plugins for Node & JavaScript Developers](http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/)
