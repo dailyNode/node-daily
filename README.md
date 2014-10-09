@@ -128,3 +128,4 @@
 * [Node.js MVC: Express.js + Derby.js Hello World Tutorial](http://webapplog.com/node-js-mvc-express-js-derby-hello-world-tutorial/)
 * [Intro to Express.js: Parameters, Error Handling and Other Middleware](http://webapplog.com/intro-to-express-js-parameters-error-handling-and-other-middleware/)
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
+* [Wrapping NPM Packages for Meteor](https://www.discovermeteor.com/blog/wrapping-npm-packages/)
