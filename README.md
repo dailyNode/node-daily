@@ -134,3 +134,4 @@
 * [3 Essential Sublime Text Plugins for Node & JavaScript Developers](http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/)
 * [Difference between spawn and exec of Node.js child_process](http://www.hacksparrow.com/difference-between-spawn-and-exec-of-node-js-child_process.html)
 * [What is the difference between an ORM and an ODM?](http://stackoverflow.com/questions/12261866/what-is-the-difference-between-an-orm-and-an-odm)
+* [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
