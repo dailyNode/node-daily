@@ -139,3 +139,4 @@
 * [How do you install “development only” NPM modules for Node.js (package.json)?](http://stackoverflow.com/questions/9268259/how-do-you-install-development-only-npm-modules-for-node-js-package-json)
 * [option to not install devDependencies](https://github.com/npm/npm/issues/1434)
 * [Image Manipulation with Node.js and L.W.I.P.](http://thejackalofjavascript.com/image-manipulation-node-js/)
+* [Redis快速入门](http://www.yiibai.com/redis/redis_quick_guide.html)
