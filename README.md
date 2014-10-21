@@ -1,4 +1,4 @@
-Operating Node.js in Production## 收集一些Node方面的可读性文章
+## 收集一些Node方面的可读性文章
 
 * [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
 * [Node.js Interview: 4 Questions with Creator Ryan Dahl](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl/)
@@ -145,3 +145,4 @@ Operating Node.js in Production## 收集一些Node方面的可读性文章
 * [knexjs](http://knexjs.org/)
 * [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
+* [Node.js Security Tips](http://blog.risingstack.com/node-js-security-tips/)
