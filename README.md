@@ -1,4 +1,4 @@
-## 收集一些Node方面的可读性文章
+Operating Node.js in Production## 收集一些Node方面的可读性文章
 
 * [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
 * [Node.js Interview: 4 Questions with Creator Ryan Dahl](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl/)
@@ -144,3 +144,4 @@
 * [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
 * [knexjs](http://knexjs.org/)
 * [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
+* [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
