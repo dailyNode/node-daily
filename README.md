@@ -146,3 +146,4 @@
 * [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
 * [Node.js Security Tips](http://blog.risingstack.com/node-js-security-tips/)
+* [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](http://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
