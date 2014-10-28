@@ -152,3 +152,4 @@
 * [Node.js - Maximum call stack size exceeded](http://stackoverflow.com/questions/20936486/node-js-maximum-call-stack-size-exceeded)
 * [What is the default stack size in Node.js?](http://stackoverflow.com/questions/20748061/what-is-the-default-stack-size-in-node-js)
 * [Difference between response.send and response.write in node js](http://stackoverflow.com/questions/21749590/difference-between-response-send-and-response-write-in-node-js)
+* [How can I update NodeJS and Npm for the next versions?](http://stackoverflow.com/questions/6237295/how-can-i-update-nodejs-and-npm-for-the-next-versions)
