@@ -148,3 +148,4 @@
 * [Node.js Security Tips](http://blog.risingstack.com/node-js-security-tips/)
 * [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](http://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 * [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
+* [How can I increase the maximum call stack size in Node.js](http://stackoverflow.com/questions/11332422/how-can-i-increase-the-maximum-call-stack-size-in-node-js)
