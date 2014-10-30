@@ -154,3 +154,4 @@
 * [Difference between response.send and response.write in node js](http://stackoverflow.com/questions/21749590/difference-between-response-send-and-response-write-in-node-js)
 * [How can I update NodeJS and Npm for the next versions?](http://stackoverflow.com/questions/6237295/how-can-i-update-nodejs-and-npm-for-the-next-versions)
 * [What's the use of 'Buffer.isBuffer' when you could use 'instanceof'?](http://stackoverflow.com/questions/21858138/whats-the-use-of-buffer-isbuffer-when-you-could-use-instanceof)
+* [instanceof Buffer to Buffer.isBuffer()](https://github.com/joyent/node/commit/02729d4af7b17ea4c7272a0d0d99f6f7418e3237)
