@@ -157,3 +157,4 @@
 * [instanceof Buffer to Buffer.isBuffer()](https://github.com/joyent/node/commit/02729d4af7b17ea4c7272a0d0d99f6f7418e3237)
 * [How to Use Buffers in Node.js](https://docs.nodejitsu.com/articles/advanced/buffers/how-to-use-buffers)
 * [Node.js Editor Comparison: Sublime vs Atom vs Cloud 9](http://strongloop.com/strongblog/node-js-compare-sublime-vs-atom-cloud-9/)
+* [Beyond the Web: 10 surprising Node.js projects](http://www.infoworld.com/article/2606986/application-development/131906-Beyond-the-Web-10-surprising-Node.js-projects.html)
