@@ -159,3 +159,4 @@
 * [Node.js Editor Comparison: Sublime vs Atom vs Cloud 9](http://strongloop.com/strongblog/node-js-compare-sublime-vs-atom-cloud-9/)
 * [Beyond the Web: 10 surprising Node.js projects](http://www.infoworld.com/article/2606986/application-development/131906-Beyond-the-Web-10-surprising-Node.js-projects.html)
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
+* [The Node Way](http://thenodeway.io/)
