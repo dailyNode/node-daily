@@ -162,3 +162,5 @@
 * [The Node Way](http://thenodeway.io/)
 * [Node.js Framework Comparison: Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
 * [npm Tricks - Scripts](http://blog.bensbit.co.uk/npm-tricks-scripts/)
+* [how npm handles the "scripts" field](https://docs.npmjs.com/misc/scripts)
+* [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
