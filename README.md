@@ -169,3 +169,4 @@
 * [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
 * [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 * [modulus.io](https://modulus.io/)
+* [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
