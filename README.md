@@ -166,3 +166,4 @@
 * [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 * [学习NodeJS第三天：打造Nodejs的调试环境（中）](http://blog.csdn.net/zhangxin09/article/details/5911643)
 * [学习NodeJS第四天：初始化nodejs的历险之旅（下）](http://blog.csdn.net/zhangxin09/article/details/5911643)
+* [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
