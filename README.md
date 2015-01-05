@@ -172,3 +172,4 @@
 * [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
 * [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
 * [Year 2014 of Node.js](http://blog.rednode.cn/year-2014-of-node-js/)
+* [node-debug 三法三例之node debugger + node inspector](https://cnodejs.org/topic/5463f6e872f405c829029f7e)
