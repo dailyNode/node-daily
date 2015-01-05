@@ -173,3 +173,4 @@
 * [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
 * [Year 2014 of Node.js](http://blog.rednode.cn/year-2014-of-node-js/)
 * [node-debug 三法三例之node debugger + node inspector](https://cnodejs.org/topic/5463f6e872f405c829029f7e)
+* [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
