@@ -178,3 +178,4 @@
 * [node issues in bountysource](https://www.bountysource.com/teams/npm/issues)
 * [npm ls](https://docs.npmjs.com/cli/ls)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
+* [npm/npm » suggestion: make npm list use --depth=0 by default](https://www.bountysource.com/issues/1423001-suggestion-make-npm-list-use-depth-0-by-default)
