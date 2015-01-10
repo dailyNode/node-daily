@@ -38,6 +38,7 @@
 * [howtonode website](http://howtonode.org/)
 * [NetEase github](https://github.com/NetEase) !!
 * [Why I am switching to promises](http://spion.github.io/posts/why-i-am-switching-to-promises.html)
+* [npm 1.0: The New "ls"](http://blog.nodejs.org/2011/03/17/npm-1-0-the-new-ls/)
 * [Node.js软肋之CPU密集型任务](http://www.infoq.com/cn/articles/nodejs-weakness-cpu-intensive-tasks/)
 * [Node.js异步处理CPU密集型任务的新思路](http://www.infoq.com/cn/articles/new-idea-of-nodejs-asynchronous-processing-tasks)
 * [Node Security Project](https://nodesecurity.io/resources)
