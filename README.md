@@ -175,3 +175,4 @@
 * [Year 2014 of Node.js](http://blog.rednode.cn/year-2014-of-node-js/)
 * [node-debug 三法三例之node debugger + node inspector](https://cnodejs.org/topic/5463f6e872f405c829029f7e)
 * [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
+* [node issues in bountysource](https://www.bountysource.com/teams/npm/issues)
