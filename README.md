@@ -179,3 +179,4 @@
 * [npm ls](https://docs.npmjs.com/cli/ls)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
 * [npm/npm » suggestion: make npm list use --depth=0 by default](https://www.bountysource.com/issues/1423001-suggestion-make-npm-list-use-depth-0-by-default)
+* [The Set problem with 0.11.14 [v8 upgrade]](https://github.com/joyent/node/issues/8449)
