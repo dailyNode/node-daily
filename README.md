@@ -189,3 +189,4 @@
 * [npm 1.0: Global vs Local installation](http://blog.nodejs.org/2011/03/23/npm-1-0-global-vs-local-installation)
 * [Add "globalDependencies" option in package.json for installing global dependencies.](https://github.com/npm/npm/issues/2949)
 * [io.js already in WebStorm](http://blog.jetbrains.com/webstorm/2015/01/io-js-already-in-webstorm/)
+* [npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
