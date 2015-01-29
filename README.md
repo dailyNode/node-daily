@@ -190,3 +190,4 @@
 * [Add "globalDependencies" option in package.json for installing global dependencies.](https://github.com/npm/npm/issues/2949)
 * [io.js already in WebStorm](http://blog.jetbrains.com/webstorm/2015/01/io-js-already-in-webstorm/)
 * [npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
+* [JSHint 与 Sublime Text 2](http://cyj.me/binary/jshint-in-sublime-text/)
