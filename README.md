@@ -192,3 +192,4 @@
 * [npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
 * [JSHint 与 Sublime Text 2](http://cyj.me/binary/jshint-in-sublime-text/)
 * [Using Redis with Node.js](http://www.sitepoint.com/using-redis-node-js/)
+* [PhantomJS 2.0 Release Notes](http://phantomjs.org/release-2.0.html)
