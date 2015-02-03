@@ -195,3 +195,4 @@
 * [PhantomJS 2.0 Release Notes](http://phantomjs.org/release-2.0.html)
 * [Moving from Node.js to Go at Bowery](http://bowery.io/posts/Nodejs-to-Golang-Bowery/)
 * [Oracle Releases Node.js Tools](http://thenewstack.io/oracle-launches-node-js-tools/)
+* [Free Node book](http://devfreebooks.org/nodejs/)
