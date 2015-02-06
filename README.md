@@ -200,3 +200,4 @@
 * [How to append to a file in Node?](http://stackoverflow.com/questions/3459476/how-to-append-to-a-file-in-node)
 * [How To Use PM2 to Setup a Node.js Production Environment On An Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps)
 * [PM2 介绍](http://www.douban.com/note/314200231/)
+* [a short introduction to node.js](https://github.com/maxogden/art-of-node)
