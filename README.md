@@ -202,3 +202,4 @@
 * [PM2 介绍](http://www.douban.com/note/314200231/)
 * [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
+* [How do I write files in node.js?](https://docs.nodejitsu.com/articles/file-system/how-to-write-files-in-nodejs)
