@@ -178,29 +178,49 @@
 * [node issues in bountysource](https://www.bountysource.com/teams/npm/issues)
 * [npm ls](https://docs.npmjs.com/cli/ls)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
-* [npm/npm » suggestion: make npm list use --depth=0 by default](https://www.bountysource.com/issues/1423001-suggestion-make-npm-list-use-depth-0-by-default)
 * [The Set problem with 0.11.14 [v8 upgrade]](https://github.com/joyent/node/issues/8449)
 * [node.js glob pattern for excluding multiple files](http://stackoverflow.com/questions/23809897/node-js-glob-pattern-for-excluding-multiple-files)
 * [glob in Node.js and return only the match (no leading path)](http://stackoverflow.com/questions/8676979/glob-in-node-js-and-return-only-the-match-no-leading-path?rq=1)
 * [Corporate involvement / balance / representation in Advisory Board makeup](https://github.com/joyent/nodejs-advisory-board/issues/4#issuecomment-70179059)
 * [Running grunt task with api, without command line](http://stackoverflow.com/questions/16564064/running-grunt-task-with-api-without-command-line)
 * [Running Grunt tasks without grunt-cli](http://www.andrewduthie.com/post/running-grunt-tasks-without-grunt-cli/)
-* [io.js - Windows 200ms delay issue](https://github.com/iojs/io.js/issues/254)
-* [npm 1.0: Global vs Local installation](http://blog.nodejs.org/2011/03/23/npm-1-0-global-vs-local-installation)
-* [Add "globalDependencies" option in package.json for installing global dependencies.](https://github.com/npm/npm/issues/2949)
-* [io.js already in WebStorm](http://blog.jetbrains.com/webstorm/2015/01/io-js-already-in-webstorm/)
-* [npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
 * [JSHint 与 Sublime Text 2](http://cyj.me/binary/jshint-in-sublime-text/)
-* [Using Redis with Node.js](http://www.sitepoint.com/using-redis-node-js/)
 * [PhantomJS 2.0 Release Notes](http://phantomjs.org/release-2.0.html)
 * [Moving from Node.js to Go at Bowery](http://bowery.io/posts/Nodejs-to-Golang-Bowery/)
-* [Oracle Releases Node.js Tools](http://thenewstack.io/oracle-launches-node-js-tools/)
-* [Free Node book](http://devfreebooks.org/nodejs/)
-* [APPENDING TEXT TO A FILE IN NODE.JS](http://disasterjs.blogspot.jp/2013/03/appending-text-to-file-in-nodejs.html)
-* [How to append to a file in Node?](http://stackoverflow.com/questions/3459476/how-to-append-to-a-file-in-node)
 * [How To Use PM2 to Setup a Node.js Production Environment On An Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps)
 * [PM2 介绍](http://www.douban.com/note/314200231/)
 * [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
+
+#### Npm
+
+* [npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
+* [npm 1.0: Global vs Local installation](http://blog.nodejs.org/2011/03/23/npm-1-0-global-vs-local-installation)
+* [Add "globalDependencies" option in package.json for installing global dependencies.](https://github.com/npm/npm/issues/2949)
+* [npm/npm » suggestion: make npm list use --depth=0 by default](https://www.bountysource.com/issues/1423001-suggestion-make-npm-list-use-depth-0-by-default)
+
+
+#### IO.js
+
+* [io.js already in WebStorm](http://blog.jetbrains.com/webstorm/2015/01/io-js-already-in-webstorm/)
 * [How do I write files in node.js?](https://docs.nodejitsu.com/articles/file-system/how-to-write-files-in-nodejs)
+* [io.js - Windows 200ms delay issue](https://github.com/iojs/io.js/issues/254)
+
+
+
+#### Book
+
+* [Free Node book](http://devfreebooks.org/nodejs/)
+
+
+#### File
+
+* [APPENDING TEXT TO A FILE IN NODE.JS](http://disasterjs.blogspot.jp/2013/03/appending-text-to-file-in-nodejs.html)
+* [How to append to a file in Node?](http://stackoverflow.com/questions/3459476/how-to-append-to-a-file-in-node)
+
+
+#### Database
+
 * [Using Node.js with MySQL](http://nodejs.blog.br/2015/01/using-nodejs-with-mysql)
+* [Oracle Releases Node.js Tools](http://thenewstack.io/oracle-launches-node-js-tools/)
+* [Using Redis with Node.js](http://www.sitepoint.com/using-redis-node-js/)
