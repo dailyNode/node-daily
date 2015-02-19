@@ -83,6 +83,8 @@
 
 #### Node Book
 
+> 感兴趣的[更多链接到 Pana 的 node-books](https://github.com/Pana/node-books)
+
 * [TJ's Mastering Node](http://visionmedia.github.io/masteringnode/book.html)
 * [Free Node book](http://devfreebooks.org/nodejs/)
 * [The Node Beginner Book](http://www.nodebeginner.org/)
