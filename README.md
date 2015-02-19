@@ -29,6 +29,11 @@
 * [Moving from Node.js to Go at Bowery](http://bowery.io/posts/Nodejs-to-Golang-Bowery/)
 
 
+#### Node Style
+
+* [Node.js: Style and structure](http://caolanmcmahon.com/posts/nodejs_style_and_structure/)
+
+
 #### Npm
 
 * [npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
@@ -343,7 +348,6 @@
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
 * [gitignore.io](https://www.gitignore.io)
 * [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
-* [Node.js: Style and structure](http://caolanmcmahon.com/posts/nodejs_style_and_structure/)
 * [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
 * [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
 * [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
