@@ -8,7 +8,6 @@
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
 * [How to know the name of all the sub-folders](http://stackoverflow.com/questions/19252945/how-to-know-the-name-of-all-the-sub-folders/19253706#19253706)
-* [npm frequently asked questions](https://www.npmjs.org/doc/misc/npm-faq.html)
 * [Node.js - `process.getuid()` not working on Windows](http://stackoverflow.com/questions/10356814/node-js-process-getuid-not-working-on-windows)
 * [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
 * [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
@@ -74,7 +73,6 @@
 * [How to make an HTTP POST request in node.js?](http://stackoverflow.com/questions/6158933/how-to-make-an-http-post-request-in-node-js)
 * [superagent的官方](http://visionmedia.github.io/superagent/)
 * [SuperAgent中文使用文档 - 来自cnode](http://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
-* [Socket.IO 1.1.0](http://socket.io/blog/socket-io-1-1-0)
 * [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
 * [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
@@ -98,14 +96,11 @@
 * [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
 * [Xvfb+YSlow+ShowSlow搭建前端性能测试框架](http://ued.taobao.org/blog/2010/07/xvfb_yslow_showslow-2/)
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
-* [Buster.JS overview](http://docs.busterjs.org/en/latest/overview/#node-testing)
 * [3 Essential Sublime Text Plugins for Node & JavaScript Developers](http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/)
 * [What is the difference between an ORM and an ODM?](http://stackoverflow.com/questions/12261866/what-is-the-difference-between-an-orm-and-an-odm)
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
-* [PM2 0.11 release](https://keymetrics.io/2014/10/15/pm2-0-11-release/)
 * [How do you install “development only” NPM modules for Node.js (package.json)?](http://stackoverflow.com/questions/9268259/how-do-you-install-development-only-npm-modules-for-node-js-package-json)
 * [option to not install devDependencies](https://github.com/npm/npm/issues/1434)
-* [Image Manipulation with Node.js and L.W.I.P.](http://thejackalofjavascript.com/image-manipulation-node-js/)
 * [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
 * [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
 * [knexjs](http://knexjs.org/)
@@ -117,7 +112,6 @@
 * [What is the default stack size in Node.js?](http://stackoverflow.com/questions/20748061/what-is-the-default-stack-size-in-node-js)
 * [Difference between response.send and response.write in node js](http://stackoverflow.com/questions/21749590/difference-between-response-send-and-response-write-in-node-js)
 * [How can I update NodeJS and Npm for the next versions?](http://stackoverflow.com/questions/6237295/how-can-i-update-nodejs-and-npm-for-the-next-versions)
-* [Node.js Editor Comparison: Sublime vs Atom vs Cloud 9](http://strongloop.com/strongblog/node-js-compare-sublime-vs-atom-cloud-9/)
 * [Beyond the Web: 10 surprising Node.js projects](http://www.infoworld.com/article/2606986/application-development/131906-Beyond-the-Web-10-surprising-Node.js-projects.html)
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * [The Node Way](http://thenodeway.io/)
@@ -155,6 +149,7 @@
 * [node issues in bountysource](https://www.bountysource.com/teams/npm/issues)
 * [npm install --save no longer using tildes](http://fredkschott.com/post/2014/02/npm-no-longer-defaults-to-tildes/)
 * [如何使用NPM来管理你的Node.js依赖](http://www.infoq.com/cn/articles/msh-using-npm-manage-node.js-dependence/)
+* [npm frequently asked questions](https://www.npmjs.org/doc/misc/npm-faq.html)
 
 
 
@@ -216,6 +211,7 @@
 * [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 * [How To Use PM2 to Setup a Node.js Production Environment On An Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps)
 * [PM2 介绍](http://www.douban.com/note/314200231/)
+* [PM2 0.11 release](https://keymetrics.io/2014/10/15/pm2-0-11-release/)
 
 
 #### CoffeeScript
@@ -243,6 +239,7 @@
 * [Harp 是一个基于 Node.js 平台的静态 Web 服务器](http://www.html5cn.org/article-5842-1.html)
 * [Node.js Framework Comparison: Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
 * [Node.js MVC: Express.js + Derby.js Hello World Tutorial](http://webapplog.com/node-js-mvc-express-js-derby-hello-world-tutorial/)
+* [Buster.JS overview](http://docs.busterjs.org/en/latest/overview/#node-testing)
 
 
 #### Express
@@ -265,7 +262,13 @@
 
 #### 图片处理
 
+* [Image Manipulation with Node.js and L.W.I.P.](http://thejackalofjavascript.com/image-manipulation-node-js/)
 
+
+
+###$ Socket.IO
+
+* [Socket.IO 1.1.0](http://socket.io/blog/socket-io-1-1-0)
 
 
 #### Database
@@ -281,4 +284,11 @@
 * [MongoDB Best Practices](https://blog.engineyard.com/2011/mongodb-best-practices)
 * [MongoDB核心贡献者：不是MongoDB不行，而是你不懂！](http://www.csdn.net/article/2012-11-15/2811920-mongodb-quan-gong-lue)
 * [Create a Node.js Application on Azure with MongoDB using the MongoLab Add-On](http://azure.microsoft.com/zh-cn/documentation/articles/store-mongolab-web-sites-nodejs-store-data-mongodb/)
+
+
+#### Node.js Editor
+
+* [Node.js Editor Comparison: Sublime vs Atom vs Cloud 9](http://strongloop.com/strongblog/node-js-compare-sublime-vs-atom-cloud-9/)
+
+
 
