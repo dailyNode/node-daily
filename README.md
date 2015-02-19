@@ -43,12 +43,8 @@
 * [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
 * [What Makes Node.js Faster Than Java?](http://strongloop.com/strongblog/node-js-is-faster-than-java/)
-* [http请求headers的顺序](http://cnodejs.org/topic/5060722e01d0b80148172f55)
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
 * [LivePool：基于 NodeJs 的跨平台 Web 抓包替换工具](http://www.alloyteam.com/2014/07/nodejs-debug-proxy-livepool/)
-* [How to make an HTTP POST request in node.js?](http://stackoverflow.com/questions/6158933/how-to-make-an-http-post-request-in-node-js)
-* [superagent的官方](http://visionmedia.github.io/superagent/)
-* [SuperAgent中文使用文档 - 来自cnode](http://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
 * [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
 * [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
@@ -202,6 +198,10 @@
 #### Http
 
 * [nodejs encoding using request](http://stackoverflow.com/questions/12040643/nodejs-encoding-using-request)
+* [How to make an HTTP POST request in node.js?](http://stackoverflow.com/questions/6158933/how-to-make-an-http-post-request-in-node-js)
+* [superagent的官方](http://visionmedia.github.io/superagent/)
+* [SuperAgent中文使用文档 - 来自cnode](http://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
+* [http请求headers的顺序](http://cnodejs.org/topic/5060722e01d0b80148172f55)
 
 
 #### Process
