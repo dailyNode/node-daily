@@ -269,6 +269,7 @@
 
 * [API 官网](http://nodejs.org/api/)
 * [LivePool：基于 NodeJs 的跨平台 Web 抓包替换工具](http://www.alloyteam.com/2014/07/nodejs-debug-proxy-livepool/)
+* [gitignore.io](https://www.gitignore.io)
 
 
 #### Production
@@ -290,6 +291,7 @@
 * [nodejitsu推出私有npm仓库托管服务 - segmentfault](http://segmentfault.com/a/1190000000398319)
 * [Simple hosted private npm and registry.nodejitsu.com](https://blog.nodejitsu.com/simple-hosted-private-npm-and-registry-nodejitsu-com/)
 * [modulus.io](https://modulus.io/)
+* [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
 
 
 
@@ -320,20 +322,21 @@
 * [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
 
 
-#### 
+#### REPL
+
+* [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
+* [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 
 
 #### 待整理
 
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
-* [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
 * [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
 * [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 * [howtonode website](http://howtonode.org/)
 * [Why I am switching to promises](http://spion.github.io/posts/why-i-am-switching-to-promises.html)
-
 * [Node.js软肋之CPU密集型任务](http://www.infoq.com/cn/articles/nodejs-weakness-cpu-intensive-tasks/)
 * [Node.js异步处理CPU密集型任务的新思路](http://www.infoq.com/cn/articles/new-idea-of-nodejs-asynchronous-processing-tasks)
 * [Node内存泄露专题](http://cnodejs.org/topic/4fa94df3b92b05485007fd87) !!
@@ -341,7 +344,6 @@
 * [Phusion Passenger: Node.js](https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial)
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
-
 * [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
 * [Aggregation Introduction](http://docs.mongodb.org/manual/core/aggregation-introduction/)
@@ -353,7 +355,6 @@
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
 * [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
-* [gitignore.io](https://www.gitignore.io)
 * [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
 * [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
 * [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
@@ -362,14 +363,12 @@
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
 * [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
 * [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
-* [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 * [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
 * [How can I increase the maximum call stack size in Node.js](http://stackoverflow.com/questions/11332422/how-can-i-increase-the-maximum-call-stack-size-in-node-js)
 * [Node.js - Maximum call stack size exceeded](http://stackoverflow.com/questions/20936486/node-js-maximum-call-stack-size-exceeded)
 * [What is the default stack size in Node.js?](http://stackoverflow.com/questions/20748061/what-is-the-default-stack-size-in-node-js)
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * [The Node Way](http://thenodeway.io/)
-* [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 * [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
 * [Corporate involvement / balance / representation in Advisory Board makeup](https://github.com/joyent/nodejs-advisory-board/issues/4#issuecomment-70179059)
