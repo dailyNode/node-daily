@@ -63,6 +63,7 @@
 * [How to Use Buffers in Node.js](https://docs.nodejitsu.com/articles/advanced/buffers/how-to-use-buffers)
 * [Wrapping NPM Packages for Meteor](https://www.discovermeteor.com/blog/wrapping-npm-packages/)
 * [Use Buffers when decoding](https://github.com/ashtuchkin/iconv-lite/wiki/Use-Buffers-when-decoding)
+* ['binary' encoding is deprecated](http://nodejs.org/api/buffer.html#buffer_buffer)
 
 
 
@@ -303,16 +304,18 @@
 * [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
 * [The Set problem with 0.11.14 [v8 upgrade]](https://github.com/joyent/node/issues/8449)
 * [How can I update NodeJS and Npm for the next versions?](http://stackoverflow.com/questions/6237295/how-can-i-update-nodejs-and-npm-for-the-next-versions)
-
+* [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
 
 
 #### Grunt
 
 * [Running grunt task with api, without command line](http://stackoverflow.com/questions/16564064/running-grunt-task-with-api-without-command-line)
 * [Running Grunt tasks without grunt-cli](http://www.andrewduthie.com/post/running-grunt-tasks-without-grunt-cli/)
-* [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
 
 
+#### Github API
+
+* [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
 
 
 #### 待整理
@@ -331,7 +334,6 @@
 * [Node内存泄露专题](http://cnodejs.org/topic/4fa94df3b92b05485007fd87) !!
 * [用nodejs开发的网站用什么作服务器端比较好？ NGNIX? APACHE?](http://cnodejs.org/topic/53a5331ba087f4562068090c)
 * [Phusion Passenger: Node.js](https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial)
-* ['binary' encoding is deprecated](http://nodejs.org/api/buffer.html#buffer_buffer)
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
 
@@ -365,7 +367,6 @@
 * [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 * [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 * [modulus.io](https://modulus.io/)
-* [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
 * [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
 * [Corporate involvement / balance / representation in Advisory Board makeup](https://github.com/joyent/nodejs-advisory-board/issues/4#issuecomment-70179059)
