@@ -19,7 +19,6 @@
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
 * [Eliminate HTTP Requests For JS Files – DynoSRC](http://www.webresourcesdepot.com/eliminate-http-requests-for-js-files-dynosrc/?utm_source=tuicool)
 
-* [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
 * [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
 * [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
@@ -27,18 +26,14 @@
 * [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
 * [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
-* [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
 * [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
-* [LivePool：基于 NodeJs 的跨平台 Web 抓包替换工具](http://www.alloyteam.com/2014/07/nodejs-debug-proxy-livepool/)
 * [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
 * [gitignore.io](https://www.gitignore.io)
 * [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
-* [how to write node programs with streams](https://github.com/substack/stream-handbook)
 * [Node.js: Style and structure](http://caolanmcmahon.com/posts/nodejs_style_and_structure/)
-* [深入浅出Node.js（三）：深入Node.js的模块机制](http://www.infoq.com/cn/articles/nodejs-module-mechanism/)
 * [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
 * [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
 * [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
@@ -56,7 +51,6 @@
 * [The Node Way](http://thenodeway.io/)
 * [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 * [学习NodeJS第四天：初始化nodejs的历险之旅（下）](http://blog.csdn.net/zhangxin09/article/details/5911643)
-* [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
 * [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 * [modulus.io](https://modulus.io/)
 * [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
@@ -159,6 +153,7 @@
 
 * [Node.js Module – exports vs module.exports](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html)
 * [module.exports vs exports in nodeJS](http://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-nodejs/7142924#7142924)
+* [深入浅出Node.js（三）：深入Node.js的模块机制](http://www.infoq.com/cn/articles/nodejs-module-mechanism/)
 
 
 #### Fs
@@ -324,6 +319,7 @@
 #### Tools
 
 * [API 官网](http://nodejs.org/api/)
+* [LivePool：基于 NodeJs 的跨平台 Web 抓包替换工具](http://www.alloyteam.com/2014/07/nodejs-debug-proxy-livepool/)
 
 
 #### Production
@@ -345,4 +341,16 @@
 * [nodejitsu推出私有npm仓库托管服务 - segmentfault](http://segmentfault.com/a/1190000000398319)
 * [Simple hosted private npm and registry.nodejitsu.com](https://blog.nodejitsu.com/simple-hosted-private-npm-and-registry-nodejitsu-com/)
 
+
+
+#### Stream
+
+* [how to write node programs with streams](https://github.com/substack/stream-handbook)
+* [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
+
+
+#### Version
+
+* [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
+* [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
 
