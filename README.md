@@ -1,11 +1,9 @@
 ## 收集一些Node方面的可读性文章
 
-* [谢骋超：Node.js开源社区与pomelo游戏服务器框架](http://share.csdn.net/slides/541)
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
 * [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
-* [Yukin-node@serve](http://djt.qq.com/ppt/24)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
 * [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 * [howtonode website](http://howtonode.org/)
@@ -20,9 +18,7 @@
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
 * [Eliminate HTTP Requests For JS Files – DynoSRC](http://www.webresourcesdepot.com/eliminate-http-requests-for-js-files-dynosrc/?utm_source=tuicool)
-* [Node.js V0.12新特性之Cluster轮转法负载均衡](http://www.infoq.com/cn/articles/nodejs-cluster-round-robin-load-balancing)
-* [Improving Node.js Concurrency with Cluster](https://devcenter.heroku.com/articles/node-cluster#using-cluster)
-* [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
+
 * [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
 * [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
@@ -41,7 +37,6 @@
 * [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
 * [gitignore.io](https://www.gitignore.io)
-* [基于NodeJS的14款Web框架](http://www.csdn.net/article/2014-03-25/2818964-web-application-frameworks-for-node-js)
 * [Comet：基于 HTTP 长连接的“服务器推”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
 * [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
 * [how to write node programs with streams](https://github.com/substack/stream-handbook)
@@ -55,12 +50,9 @@
 * [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
 * [Xvfb+YSlow+ShowSlow搭建前端性能测试框架](http://ued.taobao.org/blog/2010/07/xvfb_yslow_showslow-2/)
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
-* [3 Essential Sublime Text Plugins for Node & JavaScript Developers](http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/)
-* [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
 * [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
 * [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
 * [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
-* [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
 * [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
 * [How can I increase the maximum call stack size in Node.js](http://stackoverflow.com/questions/11332422/how-can-i-increase-the-maximum-call-stack-size-in-node-js)
 * [Node.js - Maximum call stack size exceeded](http://stackoverflow.com/questions/20936486/node-js-maximum-call-stack-size-exceeded)
@@ -76,7 +68,6 @@
 * [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 * [modulus.io](https://modulus.io/)
 * [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
-* [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
 * [Year 2014 of Node.js](http://blog.rednode.cn/year-2014-of-node-js/)
 * [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
@@ -98,6 +89,7 @@
 * [7 Tips for a Node.js Padawan](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/)
 * [如何发布Node模块到NPM社区](http://weizhifeng.net/how-to-publish-a-node-module.html)
 * [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
+* [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
 
 
 
@@ -105,7 +97,7 @@
 
 * [Why Walmart is using Node.js](http://venturebeat.com/2012/01/24/why-walmart-is-using-node-js/)
 * [选择Nodejs的N个理由](http://www.infoq.com/cn/news/2014/09/choose-nodejs)
-
+* [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
 
 #### Why not node?
 
@@ -211,6 +203,8 @@
 * [Quitting node.js gracefully](http://stackoverflow.com/questions/6958780/quitting-node-js-gracefully)
 * [How to exit in Node.JS](http://stackoverflow.com/questions/5266152/how-to-exit-in-node-js)
 * [Node.js单线程缺陷的多种解决方案](http://www.infoq.com/cn/presentations/several-solutions-node.js-thread-defects)
+* [Node.js V0.12新特性之Cluster轮转法负载均衡](http://www.infoq.com/cn/articles/nodejs-cluster-round-robin-load-balancing)
+* [Improving Node.js Concurrency with Cluster](https://devcenter.heroku.com/articles/node-cluster#using-cluster)
 
 
 
@@ -253,6 +247,7 @@
 * [knexjs](http://knexjs.org/)
 * [基于Node.js的API框架：LoopBack 2.0发布](http://www.infoq.com/cn/news/2014/07/node.js-loopback2.0-publish)
 * [Haraka - A modern, high performance, flexible SMTP server](http://haraka.github.io/)
+* [基于NodeJS的14款Web框架](http://www.csdn.net/article/2014-03-25/2818964-web-application-frameworks-for-node-js)
 
 
 
@@ -307,6 +302,7 @@
 
 * [Node.js Editor Comparison: Sublime vs Atom vs Cloud 9](http://strongloop.com/strongblog/node-js-compare-sublime-vs-atom-cloud-9/)
 * [JSHint 与 Sublime Text 2](http://cyj.me/binary/jshint-in-sublime-text/)
+* [3 Essential Sublime Text Plugins for Node & JavaScript Developers](http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/)
 
 
 #### PPT
@@ -316,6 +312,7 @@
 * [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
 * [nodejs在朋友网的实践](http://djt.qq.com/ppt/23)
 * [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
+* [Yukin-node@serve](http://djt.qq.com/ppt/24)
 
 #### Interview
 
@@ -331,6 +328,11 @@
 * [API 官网](http://nodejs.org/api/)
 
 
+#### Production
+
+* [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
+
+
 #### Follow them
 
 * [NetEase github](https://github.com/NetEase) !!
@@ -338,6 +340,7 @@
 
 #### News
 
+* [谢骋超：Node.js开源社区与pomelo游戏服务器框架](http://share.csdn.net/slides/541)
 * [后端即服务公司StrongLoop，A轮融资800万美元](http://techcrunch.cn/2013/09/20/strongloop-raises-8m-for-mobile-app-platform-built-on-node-js/)
 * [TJ的Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
 
