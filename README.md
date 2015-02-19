@@ -1,6 +1,5 @@
 ## 收集一些Node方面的可读性文章
 
-* [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
 * [Node.js Interview: 4 Questions with Creator Ryan Dahl](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl/)
 * [TJ's Mastering Node](http://visionmedia.github.io/masteringnode/book.html)
 * [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
@@ -17,8 +16,6 @@
 * [Yukin-node@serve](http://djt.qq.com/ppt/24)
 * [nodejs在朋友网的实践](http://djt.qq.com/ppt/23)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
-* [沪js讲师PPT](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
-* [苏千hujs的PPT](http://fengmk2.cnpmjs.org/ppt/hujs.html#slide-1)
 * [Goodbye node-forever, hello PM2](http://devo.ps/blog/2013/06/26/goodbye-node-forever-hello-pm2.html)
 * [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 * [howtonode website](http://howtonode.org/)
@@ -306,5 +303,11 @@
 * [Node.js Editor Comparison: Sublime vs Atom vs Cloud 9](http://strongloop.com/strongblog/node-js-compare-sublime-vs-atom-cloud-9/)
 * [JSHint 与 Sublime Text 2](http://cyj.me/binary/jshint-in-sublime-text/)
 
+
+#### PPT
+
+* [沪js讲师PPT](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
+* [苏千hujs的PPT](http://fengmk2.cnpmjs.org/ppt/hujs.html#slide-1)
+* [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
 
 
