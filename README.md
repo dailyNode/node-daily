@@ -19,7 +19,6 @@
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
 * [Yukin-node@serve](http://djt.qq.com/ppt/24)
 * [nodejs在朋友网的实践](http://djt.qq.com/ppt/23)
-* [深入浅出Node.js（一）：什么是Node.js](http://djt.qq.com/article/view/342)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
 * [沪js讲师PPT](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
 * [苏千hujs的PPT](http://fengmk2.cnpmjs.org/ppt/hujs.html#slide-1)
@@ -54,7 +53,6 @@
 * [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
 * [JavaScript安全从浏览器到服务端](http://share.csdn.net/slides/771)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
-* [Node.js单线程缺陷的多种解决方案](http://www.infoq.com/cn/presentations/several-solutions-node.js-thread-defects)
 * [nodejs介绍byJacksonTian](http://devconf.qiniudn.com/Node_Introduction.pdf)
 * [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
 * [Node安全项目要进一步提升Node.js的安全性](http://www.infoq.com/cn/news/2014/06/nodejs-security-project)
@@ -111,7 +109,6 @@
 * [Node.js MVC: Express.js + Derby.js Hello World Tutorial](http://webapplog.com/node-js-mvc-express-js-derby-hello-world-tutorial/)
 * [Intro to Express.js: Parameters, Error Handling and Other Middleware](http://webapplog.com/intro-to-express-js-parameters-error-handling-and-other-middleware/)
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
-* [Wrapping NPM Packages for Meteor](https://www.discovermeteor.com/blog/wrapping-npm-packages/)
 * [Buster.JS overview](http://docs.busterjs.org/en/latest/overview/#node-testing)
 * [3 Essential Sublime Text Plugins for Node & JavaScript Developers](http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/)
 * [What is the difference between an ORM and an ODM?](http://stackoverflow.com/questions/12261866/what-is-the-difference-between-an-orm-and-an-odm)
@@ -136,7 +133,6 @@
 * [Beyond the Web: 10 surprising Node.js projects](http://www.infoworld.com/article/2606986/application-development/131906-Beyond-the-Web-10-surprising-Node.js-projects.html)
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * [The Node Way](http://thenodeway.io/)
-* [Node.js Framework Comparison: Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
 * [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 * [学习NodeJS第四天：初始化nodejs的历险之旅（下）](http://blog.csdn.net/zhangxin09/article/details/5911643)
 * [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
@@ -154,7 +150,6 @@
 * [Running grunt task with api, without command line](http://stackoverflow.com/questions/16564064/running-grunt-task-with-api-without-command-line)
 * [Running Grunt tasks without grunt-cli](http://www.andrewduthie.com/post/running-grunt-tasks-without-grunt-cli/)
 * [JSHint 与 Sublime Text 2](http://cyj.me/binary/jshint-in-sublime-text/)
-* [PhantomJS 2.0 Release Notes](http://phantomjs.org/release-2.0.html)
 * [Moving from Node.js to Go at Bowery](http://bowery.io/posts/Nodejs-to-Golang-Bowery/)
 * [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
@@ -180,6 +175,7 @@
 * [What's the use of 'Buffer.isBuffer' when you could use 'instanceof'?](http://stackoverflow.com/questions/21858138/whats-the-use-of-buffer-isbuffer-when-you-could-use-instanceof)
 * [instanceof Buffer to Buffer.isBuffer()](https://github.com/joyent/node/commit/02729d4af7b17ea4c7272a0d0d99f6f7418e3237)
 * [How to Use Buffers in Node.js](https://docs.nodejitsu.com/articles/advanced/buffers/how-to-use-buffers)
+* [Wrapping NPM Packages for Meteor](https://www.discovermeteor.com/blog/wrapping-npm-packages/)
 
 
 
@@ -195,6 +191,7 @@
 
 * [Free Node book](http://devfreebooks.org/nodejs/)
 * [The Node Beginner Book](http://www.nodebeginner.org/)
+* [深入浅出Node.js（一）：什么是Node.js](http://djt.qq.com/article/view/342)
 
 
 #### Security
@@ -221,6 +218,7 @@
 * [Difference between spawn and exec of Node.js child_process](http://www.hacksparrow.com/difference-between-spawn-and-exec-of-node-js-child_process.html)
 * [Quitting node.js gracefully](http://stackoverflow.com/questions/6958780/quitting-node-js-gracefully)
 * [How to exit in Node.JS](http://stackoverflow.com/questions/5266152/how-to-exit-in-node-js)
+* [Node.js单线程缺陷的多种解决方案](http://www.infoq.com/cn/presentations/several-solutions-node.js-thread-defects)
 
 
 
@@ -246,9 +244,15 @@
 * [Sending emails in Node](http://stackoverflow.com/questions/4113701/sending-emails-in-node-js)
 
 
+#### PhantomJS
+
+* [PhantomJS 2.0 Release Notes](http://phantomjs.org/release-2.0.html)
+
+
 #### Framework
 
 * [Harp 是一个基于 Node.js 平台的静态 Web 服务器](http://www.html5cn.org/article-5842-1.html)
+* [Node.js Framework Comparison: Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
 
 
 #### Debug
