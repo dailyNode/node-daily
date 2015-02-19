@@ -290,6 +290,7 @@
 * [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
 * [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 * [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
+* [Xvfb+YSlow+ShowSlow搭建前端性能测试框架](http://ued.taobao.org/blog/2010/07/xvfb_yslow_showslow-2/)
 
 
 #### Follow them
@@ -383,7 +384,6 @@
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
 * [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
-* [Xvfb+YSlow+ShowSlow搭建前端性能测试框架](http://ued.taobao.org/blog/2010/07/xvfb_yslow_showslow-2/)
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
