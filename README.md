@@ -289,6 +289,7 @@
 * [Year 2014 of Node.js](http://blog.rednode.cn/year-2014-of-node-js/)
 * [nodejitsu推出私有npm仓库托管服务 - segmentfault](http://segmentfault.com/a/1190000000398319)
 * [Simple hosted private npm and registry.nodejitsu.com](https://blog.nodejitsu.com/simple-hosted-private-npm-and-registry-nodejitsu-com/)
+* [modulus.io](https://modulus.io/)
 
 
 
@@ -313,9 +314,10 @@
 * [Running Grunt tasks without grunt-cli](http://www.andrewduthie.com/post/running-grunt-tasks-without-grunt-cli/)
 
 
-#### Github API
+#### Github
 
 * [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
+* [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
 
 
 #### 
@@ -369,8 +371,6 @@
 * [The Node Way](http://thenodeway.io/)
 * [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 * [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
-* [modulus.io](https://modulus.io/)
-* [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
 * [Corporate involvement / balance / representation in Advisory Board makeup](https://github.com/joyent/nodejs-advisory-board/issues/4#issuecomment-70179059)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
