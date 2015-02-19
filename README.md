@@ -243,6 +243,7 @@
 * [MongoDB核心贡献者：不是MongoDB不行，而是你不懂！](http://www.csdn.net/article/2012-11-15/2811920-mongodb-quan-gong-lue)
 * [Create a Node.js Application on Azure with MongoDB using the MongoLab Add-On](http://azure.microsoft.com/zh-cn/documentation/articles/store-mongolab-web-sites-nodejs-store-data-mongodb/)
 * [What is the difference between an ORM and an ODM?](http://stackoverflow.com/questions/12261866/what-is-the-difference-between-an-orm-and-an-odm)
+* [mongodb Aggregation Introduction](http://docs.mongodb.org/manual/core/aggregation-introduction/)
 
 
 #### Node.js Editor
@@ -382,7 +383,6 @@
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
-* [Aggregation Introduction](http://docs.mongodb.org/manual/core/aggregation-introduction/)
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
