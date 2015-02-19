@@ -52,7 +52,6 @@
 * [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
 * [7 Tips for a Node.js Padawan](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/)
 * [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
-* [task automation with npm run](http://substack.net/task_automation_with_npm_run)
 * [How to extract request http headers from a request using NodeJS connect](http://stackoverflow.com/questions/13147693/how-to-extract-request-http-headers-from-a-request-using-nodejs-connect)
 * [Where is body in a nodejs http.get response?](http://stackoverflow.com/questions/6968448/where-is-body-in-a-nodejs-http-get-response)
 * [使用原生nodejs 不用express之类的框架，怎么知道req 是不是Ajax 请求呢？](http://cnodejs.org/topic/50a060c9637ffa41559bbcd6)
@@ -76,7 +75,6 @@
 * [how to write node programs with streams](https://github.com/substack/stream-handbook)
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 * [Node.js: Style and structure](http://caolanmcmahon.com/posts/nodejs_style_and_structure/)
-* [选择Nodejs的N个理由](http://www.infoq.com/cn/news/2014/09/choose-nodejs)
 * [深入浅出Node.js（三）：深入Node.js的模块机制](http://www.infoq.com/cn/articles/nodejs-module-mechanism/)
 * [nodejitsu推出私有npm仓库托管服务 - segmentfault](http://segmentfault.com/a/1190000000398319)
 * [Simple hosted private npm and registry.nodejitsu.com](https://blog.nodejitsu.com/simple-hosted-private-npm-and-registry-nodejitsu-com/)
@@ -88,8 +86,6 @@
 * [3 Essential Sublime Text Plugins for Node & JavaScript Developers](http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/)
 * [What is the difference between an ORM and an ODM?](http://stackoverflow.com/questions/12261866/what-is-the-difference-between-an-orm-and-an-odm)
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
-* [How do you install “development only” NPM modules for Node.js (package.json)?](http://stackoverflow.com/questions/9268259/how-do-you-install-development-only-npm-modules-for-node-js-package-json)
-* [option to not install devDependencies](https://github.com/npm/npm/issues/1434)
 * [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
 * [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
 * [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
@@ -119,7 +115,6 @@
 * [Corporate involvement / balance / representation in Advisory Board makeup](https://github.com/joyent/nodejs-advisory-board/issues/4#issuecomment-70179059)
 * [Running grunt task with api, without command line](http://stackoverflow.com/questions/16564064/running-grunt-task-with-api-without-command-line)
 * [Running Grunt tasks without grunt-cli](http://www.andrewduthie.com/post/running-grunt-tasks-without-grunt-cli/)
-* [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
 
 
@@ -128,11 +123,14 @@
 
 * [nodejs介绍byJacksonTian](http://devconf.qiniudn.com/Node_Introduction.pdf)
 * [From Java To Node.js](http://www.slideshare.net/cliffano/from-java-to-nodejs)
+* [a short introduction to node.js](https://github.com/maxogden/art-of-node)
+
 
 
 #### Why node?
 
 * [Why Walmart is using Node.js](http://venturebeat.com/2012/01/24/why-walmart-is-using-node-js/)
+* [选择Nodejs的N个理由](http://www.infoq.com/cn/news/2014/09/choose-nodejs)
 
 
 #### Why not node?
@@ -156,6 +154,9 @@
 * [npm frequently asked questions](https://www.npmjs.org/doc/misc/npm-faq.html)
 * [NPM发布2.0版，增加了私有Node.js模块管理及其它特性](http://www.infoq.com/cn/news/2014/09/npm2-whats-new)
 * [npm@2.0.0](http://blog.npmjs.org/post/98131109725/npm-2-0-0)
+* [How do you install “development only” NPM modules for Node.js (package.json)?](http://stackoverflow.com/questions/9268259/how-do-you-install-development-only-npm-modules-for-node-js-package-json)
+* [option to not install devDependencies](https://github.com/npm/npm/issues/1434)
+* [task automation with npm run](http://substack.net/task_automation_with_npm_run)
 
 
 
