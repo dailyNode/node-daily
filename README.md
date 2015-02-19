@@ -3,13 +3,11 @@
 * [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
 * [Node.js Interview: 4 Questions with Creator Ryan Dahl](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl/)
 * [TJ's Mastering Node](http://visionmedia.github.io/masteringnode/book.html)
-* [Nodejs Beginner Guide](http://nodeguide.com/index.html)
 * [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
 * [谢骋超：Node.js开源社区与pomelo游戏服务器框架](http://share.csdn.net/slides/541)
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
 * [How to know the name of all the sub-folders](http://stackoverflow.com/questions/19252945/how-to-know-the-name-of-all-the-sub-folders/19253706#19253706)
-* [Sending emails in Node](http://stackoverflow.com/questions/4113701/sending-emails-in-node-js)
 * [npm frequently asked questions](https://www.npmjs.org/doc/misc/npm-faq.html)
 * [Node.js - `process.getuid()` not working on Windows](http://stackoverflow.com/questions/10356814/node-js-process-getuid-not-working-on-windows)
 * [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
@@ -57,8 +55,6 @@
 * [JavaScript安全从浏览器到服务端](http://share.csdn.net/slides/771)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
 * [Node.js单线程缺陷的多种解决方案](http://www.infoq.com/cn/presentations/several-solutions-node.js-thread-defects)
-* [Quitting node.js gracefully](http://stackoverflow.com/questions/6958780/quitting-node-js-gracefully)
-* [How to exit in Node.JS](http://stackoverflow.com/questions/5266152/how-to-exit-in-node-js)
 * [nodejs介绍byJacksonTian](http://devconf.qiniudn.com/Node_Introduction.pdf)
 * [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
 * [Node安全项目要进一步提升Node.js的安全性](http://www.infoq.com/cn/news/2014/06/nodejs-security-project)
@@ -217,11 +213,15 @@
 
 * [APPENDING TEXT TO A FILE IN NODE.JS](http://disasterjs.blogspot.jp/2013/03/appending-text-to-file-in-nodejs.html)
 * [How to append to a file in Node?](http://stackoverflow.com/questions/3459476/how-to-append-to-a-file-in-node)
+* [Nodejs Beginner Guide](http://nodeguide.com/index.html)
 
 
 #### Child_process
 
 * [Difference between spawn and exec of Node.js child_process](http://www.hacksparrow.com/difference-between-spawn-and-exec-of-node-js-child_process.html)
+* [Quitting node.js gracefully](http://stackoverflow.com/questions/6958780/quitting-node-js-gracefully)
+* [How to exit in Node.JS](http://stackoverflow.com/questions/5266152/how-to-exit-in-node-js)
+
 
 
 #### PM2
@@ -239,6 +239,11 @@
 #### IOS
 
 * [node for IOS](https://github.com/node-app)
+
+
+#### Sending emails
+
+* [Sending emails in Node](http://stackoverflow.com/questions/4113701/sending-emails-in-node-js)
 
 
 #### Framework
