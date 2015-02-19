@@ -282,6 +282,7 @@
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
 * [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
 * [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
+* [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
 
 
 
@@ -346,6 +347,13 @@
 * [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
 
 
+#### OS
+
+* [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
+* [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
+* [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
+
+
 #### REPL
 
 * [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
@@ -362,7 +370,6 @@
 #### 待整理
 
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
-* [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
 * [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
@@ -374,11 +381,8 @@
 * [Phusion Passenger: Node.js](https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial)
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
-* [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
 * [Aggregation Introduction](http://docs.mongodb.org/manual/core/aggregation-introduction/)
-* [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
-* [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
