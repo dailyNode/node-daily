@@ -2,15 +2,10 @@
 
 * [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
 * [Node.js Interview: 4 Questions with Creator Ryan Dahl](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl/)
-* [The Node Beginner Book](http://www.nodebeginner.org/)
 * [TJ's Mastering Node](http://visionmedia.github.io/masteringnode/book.html)
 * [Nodejs Beginner Guide](http://nodeguide.com/index.html)
 * [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
 * [谢骋超：Node.js开源社区与pomelo游戏服务器框架](http://share.csdn.net/slides/541)
-* [npm install --save no longer using tildes](http://fredkschott.com/post/2014/02/npm-no-longer-defaults-to-tildes/)
-* [Debug Node.js apps with node-inspector](http://debugfix.com/2012/03/debug-node-js-apps-node-inspector/)
-* [node-inspector bug:process.env has undefined values for all environment variables](https://github.com/node-inspector/node-inspector/issues/361)
-* [如何使用NPM来管理你的Node.js依赖](http://www.infoq.com/cn/articles/msh-using-npm-manage-node.js-dependence/)
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
 * [How to know the name of all the sub-folders](http://stackoverflow.com/questions/19252945/how-to-know-the-name-of-all-the-sub-folders/19253706#19253706)
@@ -18,8 +13,6 @@
 * [npm frequently asked questions](https://www.npmjs.org/doc/misc/npm-faq.html)
 * [Node.js - `process.getuid()` not working on Windows](http://stackoverflow.com/questions/10356814/node-js-process-getuid-not-working-on-windows)
 * [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
-* [Node.js Module – exports vs module.exports](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html)
-* [module.exports vs exports in nodeJS](http://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-nodejs/7142924#7142924)
 * [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
 * [Node.js: Is there any documentation about the process.env variable](http://stackoverflow.com/questions/15058954/node-js-is-there-any-documentation-about-the-process-env-variable)
 * [Why Walmart is using Node.js](http://venturebeat.com/2012/01/24/why-walmart-is-using-node-js/)
@@ -32,23 +25,20 @@
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
 * [沪js讲师PPT](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
 * [苏千hujs的PPT](http://fengmk2.cnpmjs.org/ppt/hujs.html#slide-1)
-* [CoffeeScript的翻译](http://coffee-script.org/) !!
 * [Goodbye node-forever, hello PM2](http://devo.ps/blog/2013/06/26/goodbye-node-forever-hello-pm2.html)
 * [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 * [howtonode website](http://howtonode.org/)
 * [NetEase github](https://github.com/NetEase) !!
 * [Why I am switching to promises](http://spion.github.io/posts/why-i-am-switching-to-promises.html)
-* [npm 1.0: The New "ls"](http://blog.nodejs.org/2011/03/17/npm-1-0-the-new-ls/)
+
 * [Node.js软肋之CPU密集型任务](http://www.infoq.com/cn/articles/nodejs-weakness-cpu-intensive-tasks/)
 * [Node.js异步处理CPU密集型任务的新思路](http://www.infoq.com/cn/articles/new-idea-of-nodejs-asynchronous-processing-tasks)
-* [Node Security Project](https://nodesecurity.io/resources)
 * [Node内存泄露专题](http://cnodejs.org/topic/4fa94df3b92b05485007fd87) !!
 * [用nodejs开发的网站用什么作服务器端比较好？ NGNIX? APACHE?](http://cnodejs.org/topic/53a5331ba087f4562068090c)
 * [Phusion Passenger: Node.js](https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial)
 * [TJ的Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
 * ['binary' encoding is deprecated](http://nodejs.org/api/buffer.html#buffer_buffer)
 * [Use Buffers when decoding](https://github.com/ashtuchkin/iconv-lite/wiki/Use-Buffers-when-decoding)
-* [node for IOS](https://github.com/node-app)
 * [nodejs encoding using request](http://stackoverflow.com/questions/12040643/nodejs-encoding-using-request)
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
@@ -76,8 +66,6 @@
 * [MongoDB核心贡献者：不是MongoDB不行，而是你不懂！](http://www.csdn.net/article/2012-11-15/2811920-mongodb-quan-gong-lue)
 * [Aggregation Introduction](http://docs.mongodb.org/manual/core/aggregation-introduction/)
 * [使用MongoDB中Aggregation统计数据](http://www.yl1001.com/article/9431407228221723.htm)
-* [教程MongoDB 从入门到进阶 （aggregation数据库状态）](http://www.cnblogs.com/TextEditor/archive/2013/01/20/2857999.html)
-* [MongoDB-M101-Aggregation](http://www.wendyeq.me/blog/2013/01/27/MongoDB-M101-Aggregation)
 * [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
 * [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
@@ -85,9 +73,7 @@
 * [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
 * [7 Tips for a Node.js Padawan](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/)
 * [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
-* [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 * [task automation with npm run](http://substack.net/task_automation_with_npm_run)
-* [Harp 是一个基于 Node.js 平台的静态 Web 服务器](http://www.html5cn.org/article-5842-1.html)
 * [How to extract request http headers from a request using NodeJS connect](http://stackoverflow.com/questions/13147693/how-to-extract-request-http-headers-from-a-request-using-nodejs-connect)
 * [Where is body in a nodejs http.get response?](http://stackoverflow.com/questions/6968448/where-is-body-in-a-nodejs-http-get-response)
 * [使用原生nodejs 不用express之类的框架，怎么知道req 是不是Ajax 请求呢？](http://cnodejs.org/topic/50a060c9637ffa41559bbcd6)
@@ -126,27 +112,23 @@
 * [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
 * [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
 * [Xvfb+YSlow+ShowSlow搭建前端性能测试框架](http://ued.taobao.org/blog/2010/07/xvfb_yslow_showslow-2/)
-* [MySQL与PostgreSQL：该选择哪个开源数据库？哪一个更好？](http://www.infoq.com/cn/news/2013/12/mysql-vs-postgresql)
 * [Node.js MVC: Express.js + Derby.js Hello World Tutorial](http://webapplog.com/node-js-mvc-express-js-derby-hello-world-tutorial/)
 * [Intro to Express.js: Parameters, Error Handling and Other Middleware](http://webapplog.com/intro-to-express-js-parameters-error-handling-and-other-middleware/)
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
 * [Wrapping NPM Packages for Meteor](https://www.discovermeteor.com/blog/wrapping-npm-packages/)
 * [Buster.JS overview](http://docs.busterjs.org/en/latest/overview/#node-testing)
 * [3 Essential Sublime Text Plugins for Node & JavaScript Developers](http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/)
-* [Difference between spawn and exec of Node.js child_process](http://www.hacksparrow.com/difference-between-spawn-and-exec-of-node-js-child_process.html)
 * [What is the difference between an ORM and an ODM?](http://stackoverflow.com/questions/12261866/what-is-the-difference-between-an-orm-and-an-odm)
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
 * [PM2 0.11 release](https://keymetrics.io/2014/10/15/pm2-0-11-release/)
 * [How do you install “development only” NPM modules for Node.js (package.json)?](http://stackoverflow.com/questions/9268259/how-do-you-install-development-only-npm-modules-for-node-js-package-json)
 * [option to not install devDependencies](https://github.com/npm/npm/issues/1434)
 * [Image Manipulation with Node.js and L.W.I.P.](http://thejackalofjavascript.com/image-manipulation-node-js/)
-* [Redis快速入门](http://www.yiibai.com/redis/redis_quick_guide.html)
 * [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
 * [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
 * [knexjs](http://knexjs.org/)
 * [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
-* [Node.js Security Tips](http://blog.risingstack.com/node-js-security-tips/)
 * [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](http://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 * [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
 * [How can I increase the maximum call stack size in Node.js](http://stackoverflow.com/questions/11332422/how-can-i-increase-the-maximum-call-stack-size-in-node-js)
@@ -159,10 +141,7 @@
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * [The Node Way](http://thenodeway.io/)
 * [Node.js Framework Comparison: Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
-* [npm Tricks - Scripts](http://blog.bensbit.co.uk/npm-tricks-scripts/)
-* [how npm handles the "scripts" field](https://docs.npmjs.com/misc/scripts)
 * [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
-* [学习NodeJS第三天：打造Nodejs的调试环境（中）](http://blog.csdn.net/zhangxin09/article/details/5911643)
 * [学习NodeJS第四天：初始化nodejs的历险之旅（下）](http://blog.csdn.net/zhangxin09/article/details/5911643)
 * [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
 * [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
@@ -170,9 +149,7 @@
 * [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
 * [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
 * [Year 2014 of Node.js](http://blog.rednode.cn/year-2014-of-node-js/)
-* [node-debug 三法三例之node debugger + node inspector](https://cnodejs.org/topic/5463f6e872f405c829029f7e)
 * [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
-* [node issues in bountysource](https://www.bountysource.com/teams/npm/issues)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
 * [The Set problem with 0.11.14 [v8 upgrade]](https://github.com/joyent/node/issues/8449)
 * [node.js glob pattern for excluding multiple files](http://stackoverflow.com/questions/23809897/node-js-glob-pattern-for-excluding-multiple-files)
@@ -183,8 +160,6 @@
 * [JSHint 与 Sublime Text 2](http://cyj.me/binary/jshint-in-sublime-text/)
 * [PhantomJS 2.0 Release Notes](http://phantomjs.org/release-2.0.html)
 * [Moving from Node.js to Go at Bowery](http://bowery.io/posts/Nodejs-to-Golang-Bowery/)
-* [How To Use PM2 to Setup a Node.js Production Environment On An Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps)
-* [PM2 介绍](http://www.douban.com/note/314200231/)
 * [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
 
@@ -195,6 +170,12 @@
 * [Add "globalDependencies" option in package.json for installing global dependencies.](https://github.com/npm/npm/issues/2949)
 * [npm/npm » suggestion: make npm list use --depth=0 by default](https://www.bountysource.com/issues/1423001-suggestion-make-npm-list-use-depth-0-by-default)
 * [npm ls](https://docs.npmjs.com/cli/ls)
+* [npm 1.0: The New "ls"](http://blog.nodejs.org/2011/03/17/npm-1-0-the-new-ls/)
+* [npm Tricks - Scripts](http://blog.bensbit.co.uk/npm-tricks-scripts/)
+* [how npm handles the "scripts" field](https://docs.npmjs.com/misc/scripts)
+* [node issues in bountysource](https://www.bountysource.com/teams/npm/issues)
+* [npm install --save no longer using tildes](http://fredkschott.com/post/2014/02/npm-no-longer-defaults-to-tildes/)
+* [如何使用NPM来管理你的Node.js依赖](http://www.infoq.com/cn/articles/msh-using-npm-manage-node.js-dependence/)
 
 
 
@@ -217,6 +198,19 @@
 #### Book
 
 * [Free Node book](http://devfreebooks.org/nodejs/)
+* [The Node Beginner Book](http://www.nodebeginner.org/)
+
+
+#### Security
+
+* [Node Security Project](https://nodesecurity.io/resources)
+* [Node.js Security Tips](http://blog.risingstack.com/node-js-security-tips/)
+
+
+#### Module
+
+* [Node.js Module – exports vs module.exports](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html)
+* [module.exports vs exports in nodeJS](http://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-nodejs/7142924#7142924)
 
 
 #### File
@@ -225,8 +219,48 @@
 * [How to append to a file in Node?](http://stackoverflow.com/questions/3459476/how-to-append-to-a-file-in-node)
 
 
+#### Child_process
+
+* [Difference between spawn and exec of Node.js child_process](http://www.hacksparrow.com/difference-between-spawn-and-exec-of-node-js-child_process.html)
+
+
+#### PM2
+
+* [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
+* [How To Use PM2 to Setup a Node.js Production Environment On An Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps)
+* [PM2 介绍](http://www.douban.com/note/314200231/)
+
+
+#### CoffeeScript
+
+* [CoffeeScript的翻译](http://coffee-script.org/) !!
+
+
+#### IOS
+
+* [node for IOS](https://github.com/node-app)
+
+
+#### Framework
+
+* [Harp 是一个基于 Node.js 平台的静态 Web 服务器](http://www.html5cn.org/article-5842-1.html)
+
+
+#### Debug
+
+* [Debug Node.js apps with node-inspector](http://debugfix.com/2012/03/debug-node-js-apps-node-inspector/)
+* [node-inspector bug:process.env has undefined values for all environment variables](https://github.com/node-inspector/node-inspector/issues/361)
+* [node-debug 三法三例之node debugger + node inspector](https://cnodejs.org/topic/5463f6e872f405c829029f7e)
+* [学习NodeJS第三天：打造Nodejs的调试环境（中）](http://blog.csdn.net/zhangxin09/article/details/5911643)
+
+
 #### Database
 
 * [Using Node.js with MySQL](http://nodejs.blog.br/2015/01/using-nodejs-with-mysql)
 * [Oracle Releases Node.js Tools](http://thenewstack.io/oracle-launches-node-js-tools/)
 * [Using Redis with Node.js](http://www.sitepoint.com/using-redis-node-js/)
+* [教程MongoDB 从入门到进阶 （aggregation数据库状态）](http://www.cnblogs.com/TextEditor/archive/2013/01/20/2857999.html)
+* [MongoDB-M101-Aggregation](http://www.wendyeq.me/blog/2013/01/27/MongoDB-M101-Aggregation)
+* [MySQL与PostgreSQL：该选择哪个开源数据库？哪一个更好？](http://www.infoq.com/cn/news/2013/12/mysql-vs-postgresql)
+* [Redis快速入门](http://www.yiibai.com/redis/redis_quick_guide.html)
+
