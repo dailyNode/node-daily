@@ -37,9 +37,6 @@
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
 * [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
-* [How to extract request http headers from a request using NodeJS connect](http://stackoverflow.com/questions/13147693/how-to-extract-request-http-headers-from-a-request-using-nodejs-connect)
-* [Where is body in a nodejs http.get response?](http://stackoverflow.com/questions/6968448/where-is-body-in-a-nodejs-http-get-response)
-* [使用原生nodejs 不用express之类的框架，怎么知道req 是不是Ajax 请求呢？](http://cnodejs.org/topic/50a060c9637ffa41559bbcd6)
 * [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
 * [What Makes Node.js Faster Than Java?](http://strongloop.com/strongblog/node-js-is-faster-than-java/)
@@ -52,7 +49,6 @@
 * [基于NodeJS的14款Web框架](http://www.csdn.net/article/2014-03-25/2818964-web-application-frameworks-for-node-js)
 * [Comet：基于 HTTP 长连接的“服务器推”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
 * [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
-* [Haraka - A modern, high performance, flexible SMTP server](http://haraka.github.io/)
 * [how to write node programs with streams](https://github.com/substack/stream-handbook)
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 * [Node.js: Style and structure](http://caolanmcmahon.com/posts/nodejs_style_and_structure/)
@@ -202,6 +198,9 @@
 * [superagent的官方](http://visionmedia.github.io/superagent/)
 * [SuperAgent中文使用文档 - 来自cnode](http://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
 * [http请求headers的顺序](http://cnodejs.org/topic/5060722e01d0b80148172f55)
+* [How to extract request http headers from a request using NodeJS connect](http://stackoverflow.com/questions/13147693/how-to-extract-request-http-headers-from-a-request-using-nodejs-connect)
+* [Where is body in a nodejs http.get response?](http://stackoverflow.com/questions/6968448/where-is-body-in-a-nodejs-http-get-response)
+* [使用原生nodejs 不用express之类的框架，怎么知道req 是不是Ajax 请求呢？](http://cnodejs.org/topic/50a060c9637ffa41559bbcd6)
 
 
 #### Process
@@ -256,6 +255,7 @@
 * [Buster.JS overview](http://docs.busterjs.org/en/latest/overview/#node-testing)
 * [knexjs](http://knexjs.org/)
 * [基于Node.js的API框架：LoopBack 2.0发布](http://www.infoq.com/cn/news/2014/07/node.js-loopback2.0-publish)
+* [Haraka - A modern, high performance, flexible SMTP server](http://haraka.github.io/)
 
 
 
