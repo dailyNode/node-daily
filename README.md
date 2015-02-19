@@ -12,6 +12,7 @@
 * [如何发布Node模块到NPM社区](http://weizhifeng.net/how-to-publish-a-node-module.html)
 * [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
 * [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
+* [The Node Way](http://thenodeway.io/)
 
 
 
@@ -129,6 +130,8 @@
 * [使用原生nodejs 不用express之类的框架，怎么知道req 是不是Ajax 请求呢？](http://cnodejs.org/topic/50a060c9637ffa41559bbcd6)
 * [Difference between response.send and response.write in node js](http://stackoverflow.com/questions/21749590/difference-between-response-send-and-response-write-in-node-js)
 * [Eliminate HTTP Requests For JS Files – DynoSRC](http://www.webresourcesdepot.com/eliminate-http-requests-for-js-files-dynosrc/?utm_source=tuicool)
+* [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
+* [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
 
 
 #### Process
@@ -278,7 +281,15 @@
 
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
 * [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
+* [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
 
+
+
+#### Node Application
+
+* [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
+* [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
+* [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
 
 
 #### Follow them
@@ -340,6 +351,13 @@
 * [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 
 
+#### Speed Node
+
+* [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
+* [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
+
+
+
 #### 待整理
 
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
@@ -361,22 +379,13 @@
 * [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
 * [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
-* [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
-* [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
-* [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
-* [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
 * [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
 * [Xvfb+YSlow+ShowSlow搭建前端性能测试框架](http://ued.taobao.org/blog/2010/07/xvfb_yslow_showslow-2/)
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
-* [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
-* [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
-* [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
-* [The Node Way](http://thenodeway.io/)
-* [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
 * [Corporate involvement / balance / representation in Advisory Board makeup](https://github.com/joyent/nodejs-advisory-board/issues/4#issuecomment-70179059)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
