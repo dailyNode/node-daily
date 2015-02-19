@@ -1,6 +1,5 @@
 ## 收集一些Node方面的可读性文章
 
-* [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
 * [谢骋超：Node.js开源社区与pomelo游戏服务器框架](http://share.csdn.net/slides/541)
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
@@ -8,7 +7,6 @@
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
 * [Yukin-node@serve](http://djt.qq.com/ppt/24)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
-* [Goodbye node-forever, hello PM2](http://devo.ps/blog/2013/06/26/goodbye-node-forever-hello-pm2.html)
 * [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 * [howtonode website](http://howtonode.org/)
 * [Why I am switching to promises](http://spion.github.io/posts/why-i-am-switching-to-promises.html)
@@ -18,7 +16,6 @@
 * [Node内存泄露专题](http://cnodejs.org/topic/4fa94df3b92b05485007fd87) !!
 * [用nodejs开发的网站用什么作服务器端比较好？ NGNIX? APACHE?](http://cnodejs.org/topic/53a5331ba087f4562068090c)
 * [Phusion Passenger: Node.js](https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial)
-* [TJ的Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
 * ['binary' encoding is deprecated](http://nodejs.org/api/buffer.html#buffer_buffer)
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
@@ -26,7 +23,6 @@
 * [Node.js V0.12新特性之Cluster轮转法负载均衡](http://www.infoq.com/cn/articles/nodejs-cluster-round-robin-load-balancing)
 * [Improving Node.js Concurrency with Cluster](https://devcenter.heroku.com/articles/node-cluster#using-cluster)
 * [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
-* [后端即服务公司StrongLoop，A轮融资800万美元](http://techcrunch.cn/2013/09/20/strongloop-raises-8m-for-mobile-app-platform-built-on-node-js/)
 * [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
 * [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
@@ -34,7 +30,6 @@
 * [Aggregation Introduction](http://docs.mongodb.org/manual/core/aggregation-introduction/)
 * [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
 * [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
-* [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
 * [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
 * [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
@@ -102,6 +97,7 @@
 * [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 * [7 Tips for a Node.js Padawan](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/)
 * [如何发布Node模块到NPM社区](http://weizhifeng.net/how-to-publish-a-node-module.html)
+* [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
 
 
 
@@ -224,6 +220,7 @@
 * [How To Use PM2 to Setup a Node.js Production Environment On An Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps)
 * [PM2 介绍](http://www.douban.com/note/314200231/)
 * [PM2 0.11 release](https://keymetrics.io/2014/10/15/pm2-0-11-release/)
+* [Goodbye node-forever, hello PM2](http://devo.ps/blog/2013/06/26/goodbye-node-forever-hello-pm2.html)
 
 
 #### CoffeeScript
@@ -324,6 +321,9 @@
 
 * [Node.js Interview: 4 Questions with Creator Ryan Dahl](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl/)
 
+#### Error Handling
+
+* [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 
 
 #### Tools
@@ -334,5 +334,11 @@
 #### Follow them
 
 * [NetEase github](https://github.com/NetEase) !!
+
+
+#### News
+
+* [后端即服务公司StrongLoop，A轮融资800万美元](http://techcrunch.cn/2013/09/20/strongloop-raises-8m-for-mobile-app-platform-built-on-node-js/)
+* [TJ的Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
 
 
