@@ -39,7 +39,6 @@
 * [how to write node programs with streams](https://github.com/substack/stream-handbook)
 * [Node.js: Style and structure](http://caolanmcmahon.com/posts/nodejs_style_and_structure/)
 * [深入浅出Node.js（三）：深入Node.js的模块机制](http://www.infoq.com/cn/articles/nodejs-module-mechanism/)
-* [Simple hosted private npm and registry.nodejitsu.com](https://blog.nodejitsu.com/simple-hosted-private-npm-and-registry-nodejitsu-com/)
 * [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
 * [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
 * [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
@@ -53,7 +52,6 @@
 * [Node.js - Maximum call stack size exceeded](http://stackoverflow.com/questions/20936486/node-js-maximum-call-stack-size-exceeded)
 * [What is the default stack size in Node.js?](http://stackoverflow.com/questions/20748061/what-is-the-default-stack-size-in-node-js)
 * [How can I update NodeJS and Npm for the next versions?](http://stackoverflow.com/questions/6237295/how-can-i-update-nodejs-and-npm-for-the-next-versions)
-* [Beyond the Web: 10 surprising Node.js projects](http://www.infoworld.com/article/2606986/application-development/131906-Beyond-the-Web-10-surprising-Node.js-projects.html)
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * [The Node Way](http://thenodeway.io/)
 * [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
@@ -247,6 +245,7 @@
 * [Haraka - A modern, high performance, flexible SMTP server](http://haraka.github.io/)
 * [基于NodeJS的14款Web框架](http://www.csdn.net/article/2014-03-25/2818964-web-application-frameworks-for-node-js)
 * [Comet：基于 HTTP 长连接的“服务器推”技术](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
+* [Beyond the Web: 10 surprising Node.js projects](http://www.infoworld.com/article/2606986/application-development/131906-Beyond-the-Web-10-surprising-Node.js-projects.html)
 
 
 
@@ -344,5 +343,6 @@
 * [TJ的Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
 * [Year 2014 of Node.js](http://blog.rednode.cn/year-2014-of-node-js/)
 * [nodejitsu推出私有npm仓库托管服务 - segmentfault](http://segmentfault.com/a/1190000000398319)
+* [Simple hosted private npm and registry.nodejitsu.com](https://blog.nodejitsu.com/simple-hosted-private-npm-and-registry-nodejitsu-com/)
 
 
