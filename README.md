@@ -323,6 +323,9 @@
 
 #### CPU
 
+* [Node.js软肋之CPU密集型任务](http://www.infoq.com/cn/articles/nodejs-weakness-cpu-intensive-tasks/)
+* [Node.js异步处理CPU密集型任务的新思路](http://www.infoq.com/cn/articles/new-idea-of-nodejs-asynchronous-processing-tasks)
+* [Node内存泄露专题](http://cnodejs.org/topic/4fa94df3b92b05485007fd87) !!
 
 
 
@@ -393,9 +396,6 @@
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
 * [howtonode website](http://howtonode.org/)
 * [Why I am switching to promises](http://spion.github.io/posts/why-i-am-switching-to-promises.html)
-* [Node.js软肋之CPU密集型任务](http://www.infoq.com/cn/articles/nodejs-weakness-cpu-intensive-tasks/)
-* [Node.js异步处理CPU密集型任务的新思路](http://www.infoq.com/cn/articles/new-idea-of-nodejs-asynchronous-processing-tasks)
-* [Node内存泄露专题](http://cnodejs.org/topic/4fa94df3b92b05485007fd87) !!
 * [Phusion Passenger: Node.js](https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial)
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
