@@ -20,14 +20,12 @@
 * [Phusion Passenger: Node.js](https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial)
 * [TJ的Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
 * ['binary' encoding is deprecated](http://nodejs.org/api/buffer.html#buffer_buffer)
-* [nodejs encoding using request](http://stackoverflow.com/questions/12040643/nodejs-encoding-using-request)
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
 * [Eliminate HTTP Requests For JS Files – DynoSRC](http://www.webresourcesdepot.com/eliminate-http-requests-for-js-files-dynosrc/?utm_source=tuicool)
 * [Node.js V0.12新特性之Cluster轮转法负载均衡](http://www.infoq.com/cn/articles/nodejs-cluster-round-robin-load-balancing)
 * [Improving Node.js Concurrency with Cluster](https://devcenter.heroku.com/articles/node-cluster#using-cluster)
 * [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
-* [如何发布Node模块到NPM社区](http://weizhifeng.net/how-to-publish-a-node-module.html)
 * [后端即服务公司StrongLoop，A轮融资800万美元](http://techcrunch.cn/2013/09/20/strongloop-raises-8m-for-mobile-app-platform-built-on-node-js/)
 * [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
 * [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
@@ -111,6 +109,7 @@
 * [From Java To Node.js](http://www.slideshare.net/cliffano/from-java-to-nodejs)
 * [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 * [7 Tips for a Node.js Padawan](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/)
+* [如何发布Node模块到NPM社区](http://weizhifeng.net/how-to-publish-a-node-module.html)
 
 
 
@@ -198,6 +197,11 @@
 #### Event
 
 * [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
+
+
+#### Http
+
+* [nodejs encoding using request](http://stackoverflow.com/questions/12040643/nodejs-encoding-using-request)
 
 
 #### Process
@@ -319,6 +323,12 @@
 #### Interview
 
 * [Node.js Interview: 4 Questions with Creator Ryan Dahl](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl/)
+
+
+
+#### Tools
+
+* [API 官网](http://nodejs.org/api/)
 
 
 #### Follow them
