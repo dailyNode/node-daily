@@ -30,7 +30,6 @@
 * [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
 * [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
-* [What Makes Node.js Faster Than Java?](http://strongloop.com/strongblog/node-js-is-faster-than-java/)
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
 * [LivePool：基于 NodeJs 的跨平台 Web 抓包替换工具](http://www.alloyteam.com/2014/07/nodejs-debug-proxy-livepool/)
 * [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
@@ -93,6 +92,7 @@
 * [选择Nodejs的N个理由](http://www.infoq.com/cn/news/2014/09/choose-nodejs)
 * [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
 * [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
+* [What Makes Node.js Faster Than Java?](http://strongloop.com/strongblog/node-js-is-faster-than-java/)
 
 
 #### Why not node?
