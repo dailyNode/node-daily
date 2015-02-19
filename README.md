@@ -47,10 +47,8 @@
 * [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
 * [JavaScript安全从浏览器到服务端](http://share.csdn.net/slides/771)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
-* [nodejs介绍byJacksonTian](http://devconf.qiniudn.com/Node_Introduction.pdf)
 * [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
 * [Node安全项目要进一步提升Node.js的安全性](http://www.infoq.com/cn/news/2014/06/nodejs-security-project)
-* [基于Node.js的API框架：LoopBack 2.0发布](http://www.infoq.com/cn/news/2014/07/node.js-loopback2.0-publish)
 * [Aggregation Introduction](http://docs.mongodb.org/manual/core/aggregation-introduction/)
 * [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
 * [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
@@ -135,6 +133,8 @@
 
 
 #### What is node?
+
+* [nodejs介绍byJacksonTian](http://devconf.qiniudn.com/Node_Introduction.pdf)
 
 
 #### Why node?
@@ -248,6 +248,8 @@
 * [Node.js MVC: Express.js + Derby.js Hello World Tutorial](http://webapplog.com/node-js-mvc-express-js-derby-hello-world-tutorial/)
 * [Buster.JS overview](http://docs.busterjs.org/en/latest/overview/#node-testing)
 * [knexjs](http://knexjs.org/)
+* [基于Node.js的API框架：LoopBack 2.0发布](http://www.infoq.com/cn/news/2014/07/node.js-loopback2.0-publish)
+
 
 
 
