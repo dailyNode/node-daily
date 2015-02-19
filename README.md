@@ -99,6 +99,9 @@
 * [How to append to a file in Node?](http://stackoverflow.com/questions/3459476/how-to-append-to-a-file-in-node)
 * [Nodejs Beginner Guide](http://nodeguide.com/index.html)
 * [How to know the name of all the sub-folders](http://stackoverflow.com/questions/19252945/how-to-know-the-name-of-all-the-sub-folders/19253706#19253706)
+* [node.js glob pattern for excluding multiple files](http://stackoverflow.com/questions/23809897/node-js-glob-pattern-for-excluding-multiple-files)
+* [glob in Node.js and return only the match (no leading path)](http://stackoverflow.com/questions/8676979/glob-in-node-js-and-return-only-the-match-no-leading-path?rq=1)
+
 
 
 #### Event
@@ -199,6 +202,8 @@
 * [node-inspector bug:process.env has undefined values for all environment variables](https://github.com/node-inspector/node-inspector/issues/361)
 * [node-debug 三法三例之node debugger + node inspector](https://cnodejs.org/topic/5463f6e872f405c829029f7e)
 * [学习NodeJS第三天：打造Nodejs的调试环境（中）](http://blog.csdn.net/zhangxin09/article/details/5911643)
+* [学习NodeJS第四天：初始化nodejs的历险之旅（下）](http://blog.csdn.net/zhangxin09/article/details/5911643)
+
 
 
 #### 图片处理
@@ -354,13 +359,10 @@
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * [The Node Way](http://thenodeway.io/)
 * [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
-* [学习NodeJS第四天：初始化nodejs的历险之旅（下）](http://blog.csdn.net/zhangxin09/article/details/5911643)
 * [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 * [modulus.io](https://modulus.io/)
 * [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
 * [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
-* [node.js glob pattern for excluding multiple files](http://stackoverflow.com/questions/23809897/node-js-glob-pattern-for-excluding-multiple-files)
-* [glob in Node.js and return only the match (no leading path)](http://stackoverflow.com/questions/8676979/glob-in-node-js-and-return-only-the-match-no-leading-path?rq=1)
 * [Corporate involvement / balance / representation in Advisory Board makeup](https://github.com/joyent/nodejs-advisory-board/issues/4#issuecomment-70179059)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
