@@ -5,6 +5,7 @@
 
 #### What is node?
 
+* [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
 * [nodejs介绍byJacksonTian](http://devconf.qiniudn.com/Node_Introduction.pdf)
 * [From Java To Node.js](http://www.slideshare.net/cliffano/from-java-to-nodejs)
 * [a short introduction to node.js](https://github.com/maxogden/art-of-node)
