@@ -4,16 +4,13 @@
 * [谢骋超：Node.js开源社区与pomelo游戏服务器框架](http://share.csdn.net/slides/541)
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
-* [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
 * [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
 * [Yukin-node@serve](http://djt.qq.com/ppt/24)
-* [nodejs在朋友网的实践](http://djt.qq.com/ppt/23)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
 * [Goodbye node-forever, hello PM2](http://devo.ps/blog/2013/06/26/goodbye-node-forever-hello-pm2.html)
 * [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 * [howtonode website](http://howtonode.org/)
-* [NetEase github](https://github.com/NetEase) !!
 * [Why I am switching to promises](http://spion.github.io/posts/why-i-am-switching-to-promises.html)
 
 * [Node.js软肋之CPU密集型任务](http://www.infoq.com/cn/articles/nodejs-weakness-cpu-intensive-tasks/)
@@ -34,10 +31,8 @@
 * [后端即服务公司StrongLoop，A轮融资800万美元](http://techcrunch.cn/2013/09/20/strongloop-raises-8m-for-mobile-app-platform-built-on-node-js/)
 * [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
 * [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
-* [JavaScript安全从浏览器到服务端](http://share.csdn.net/slides/771)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
 * [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
-* [Node安全项目要进一步提升Node.js的安全性](http://www.infoq.com/cn/news/2014/06/nodejs-security-project)
 * [Aggregation Introduction](http://docs.mongodb.org/manual/core/aggregation-introduction/)
 * [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
 * [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
@@ -182,6 +177,8 @@
 
 * [Node Security Project](https://nodesecurity.io/resources)
 * [Node.js Security Tips](http://blog.risingstack.com/node-js-security-tips/)
+* [Node安全项目要进一步提升Node.js的安全性](http://www.infoq.com/cn/news/2014/06/nodejs-security-project)
+* [JavaScript安全从浏览器到服务端](http://share.csdn.net/slides/771)
 
 
 #### Module
@@ -316,8 +313,16 @@
 * [沪js讲师PPT](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
 * [苏千hujs的PPT](http://fengmk2.cnpmjs.org/ppt/hujs.html#slide-1)
 * [Ryan Dahl在JSConf的ppt](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf)
+* [nodejs在朋友网的实践](http://djt.qq.com/ppt/23)
+* [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
 
 #### Interview
 
 * [Node.js Interview: 4 Questions with Creator Ryan Dahl](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl/)
+
+
+#### Follow them
+
+* [NetEase github](https://github.com/NetEase) !!
+
 
