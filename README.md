@@ -14,7 +14,6 @@
 * [Node.js: Is there any documentation about the process.env variable](http://stackoverflow.com/questions/15058954/node-js-is-there-any-documentation-about-the-process-env-variable)
 * [Why Walmart is using Node.js](http://venturebeat.com/2012/01/24/why-walmart-is-using-node-js/)
 * [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
-* [Node.js 对图片进行裁切、缩放](http://blog.csdn.net/kidx_/article/details/9709387)
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
 * [Yukin-node@serve](http://djt.qq.com/ppt/24)
 * [nodejs在朋友网的实践](http://djt.qq.com/ppt/23)
@@ -85,8 +84,6 @@
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 * [Node.js: Style and structure](http://caolanmcmahon.com/posts/nodejs_style_and_structure/)
 * [选择Nodejs的N个理由](http://www.infoq.com/cn/news/2014/09/choose-nodejs)
-* [NPM发布2.0版，增加了私有Node.js模块管理及其它特性](http://www.infoq.com/cn/news/2014/09/npm2-whats-new)
-* [npm@2.0.0](http://blog.npmjs.org/post/98131109725/npm-2-0-0)
 * [深入浅出Node.js（三）：深入Node.js的模块机制](http://www.infoq.com/cn/articles/nodejs-module-mechanism/)
 * [nodejitsu推出私有npm仓库托管服务 - segmentfault](http://segmentfault.com/a/1190000000398319)
 * [Simple hosted private npm and registry.nodejitsu.com](https://blog.nodejitsu.com/simple-hosted-private-npm-and-registry-nodejitsu-com/)
@@ -103,7 +100,6 @@
 * [option to not install devDependencies](https://github.com/npm/npm/issues/1434)
 * [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
 * [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
-* [knexjs](http://knexjs.org/)
 * [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
 * [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
@@ -136,6 +132,15 @@
 * [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
 
+
+
+#### What is node?
+
+
+#### Why node?
+
+
+
 #### Npm
 
 * [npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
@@ -150,6 +155,8 @@
 * [npm install --save no longer using tildes](http://fredkschott.com/post/2014/02/npm-no-longer-defaults-to-tildes/)
 * [如何使用NPM来管理你的Node.js依赖](http://www.infoq.com/cn/articles/msh-using-npm-manage-node.js-dependence/)
 * [npm frequently asked questions](https://www.npmjs.org/doc/misc/npm-faq.html)
+* [NPM发布2.0版，增加了私有Node.js模块管理及其它特性](http://www.infoq.com/cn/news/2014/09/npm2-whats-new)
+* [npm@2.0.0](http://blog.npmjs.org/post/98131109725/npm-2-0-0)
 
 
 
@@ -240,6 +247,8 @@
 * [Node.js Framework Comparison: Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
 * [Node.js MVC: Express.js + Derby.js Hello World Tutorial](http://webapplog.com/node-js-mvc-express-js-derby-hello-world-tutorial/)
 * [Buster.JS overview](http://docs.busterjs.org/en/latest/overview/#node-testing)
+* [knexjs](http://knexjs.org/)
+
 
 
 #### Express
@@ -263,6 +272,7 @@
 #### 图片处理
 
 * [Image Manipulation with Node.js and L.W.I.P.](http://thejackalofjavascript.com/image-manipulation-node-js/)
+* [Node.js 对图片进行裁切、缩放](http://blog.csdn.net/kidx_/article/details/9709387)
 
 
 
