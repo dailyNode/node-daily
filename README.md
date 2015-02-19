@@ -277,6 +277,8 @@
 #### Production
 
 * [Operating Node.js in Production](http://blog.risingstack.com/operating-node-in-production/)
+* [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
+
 
 
 #### Follow them
@@ -366,7 +368,6 @@
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
 * [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
 * [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
-* [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
 * [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
 * [Xvfb+YSlow+ShowSlow搭建前端性能测试框架](http://ued.taobao.org/blog/2010/07/xvfb_yslow_showslow-2/)
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
