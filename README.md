@@ -229,9 +229,14 @@
 
 
 
-###$ Socket.IO
+#### Socket.IO
 
 * [Socket.IO 1.1.0](http://socket.io/blog/socket-io-1-1-0)
+
+
+#### BrowserSync
+
+* [BrowserSync 2.0](http://www.wearejh.com/news/browsersync-2-0/)
 
 
 #### Database
