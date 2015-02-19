@@ -85,6 +85,7 @@
 * [The Node Beginner Book](http://www.nodebeginner.org/)
 * [深入浅出Node.js（一）：什么是Node.js](http://djt.qq.com/article/view/342)
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
+* [eloquentjavascript - introduce you to Node.js nodejs](http://eloquentjavascript.net/20_node.html) !!!
 
 
 #### Security
@@ -160,6 +161,8 @@
 * [PM2 介绍](http://www.douban.com/note/314200231/)
 * [PM2 0.11 release](https://keymetrics.io/2014/10/15/pm2-0-11-release/)
 * [Goodbye node-forever, hello PM2](http://devo.ps/blog/2013/06/26/goodbye-node-forever-hello-pm2.html)
+* [cnode的jiyinyiyong翻译版本 -  forever 替代工具 pm2 的介绍](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
+
 
 
 #### CoffeeScript
@@ -375,7 +378,6 @@
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
-* [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 * [howtonode website](http://howtonode.org/)
 * [Why I am switching to promises](http://spion.github.io/posts/why-i-am-switching-to-promises.html)
 * [Node.js软肋之CPU密集型任务](http://www.infoq.com/cn/articles/nodejs-weakness-cpu-intensive-tasks/)
@@ -388,7 +390,6 @@
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
 * [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
 * [EASY CPU PROFILING IN NODE.JS](http://clock.co.uk/blog/easy-cpu-profiling-in-node-js)
-* [eloquentjavascript nodejs](http://eloquentjavascript.net/20_node.html)
 * [Self-contained Node.js scripts](https://oncletom.io/2014/self-contained-node-scripts/)
 * [Simplify Your Life With an SSH Config File](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
