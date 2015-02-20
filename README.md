@@ -218,7 +218,7 @@
 * [How To Use PM2 to Setup a Node.js Production Environment On An Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps)
 * [PM2 介绍](http://www.douban.com/note/314200231/)
 * [PM2 0.11 release](https://keymetrics.io/2014/10/15/pm2-0-11-release/)
-* [Goodbye node-forever, hello PM2](http://devo.ps/blog/2013/06/26/goodbye-node-forever-hello-pm2.html)
+* [Goodbye node-forever, hello PM2](http://devo.ps/blog/goodbye-node-forever-hello-pm2/)
 * [cnode的jiyinyiyong翻译版本 -  forever 替代工具 pm2 的介绍](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 
 
