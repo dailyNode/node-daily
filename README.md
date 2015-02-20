@@ -284,6 +284,7 @@
 #### Error Handling
 
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
+* [Node.js异常捕获的一些实践](http://www.alloyteam.com/2013/12/node-js-series-exception-caught/)
 
 
 #### Tools
@@ -389,6 +390,14 @@
 
 * [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
 * [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
+
+
+
+#### 工具包
+
+> 部分[链接到微博](http://weibo.com/p/1008082f61dc7d1faaa86ea7b05f41422bc89a?k=nodejs%E5%B7%A5%E5%85%B7%E5%8C%85) 会及时更新
+
+后面写个脚本同步到专门的 repo
 
 
 
