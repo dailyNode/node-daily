@@ -7,9 +7,9 @@
 
 > 目前非正式版本，存在变更
 
-* [What is node?](https://github.com/dailyNode/node-daily#what-is-node)
-* Why node?
-* Why not node?
+* [What is node?](#what-is-node)
+* [Why node?](https://github.com/dailyNode/node-daily#why-node)
+* [Why not node?]()
 * Node Style
 * Npm
 * Buffer
