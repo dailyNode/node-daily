@@ -91,6 +91,7 @@
 * [深入浅出Node.js（一）：什么是Node.js](http://djt.qq.com/article/view/342)
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 * [eloquentjavascript - introduce you to Node.js nodejs](http://eloquentjavascript.net/20_node.html) !!!
+* [Sam's Teach Yourself Node.js in 24 Hours](http://nodejsbook.io/)
 
 
 #### Security
