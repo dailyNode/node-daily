@@ -285,6 +285,7 @@
 
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [Node.js异常捕获的一些实践](http://www.alloyteam.com/2013/12/node-js-series-exception-caught/)
+* [Uncaught Exceptions in Node.js](http://shapeshed.com/uncaught-exceptions-in-node/)
 
 
 #### Tools
