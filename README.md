@@ -222,7 +222,7 @@
 * [cnode的jiyinyiyong翻译版本 -  forever 替代工具 pm2 的介绍](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 * [node.js pm2 on exit](http://stackoverflow.com/questions/26163800/node-js-pm2-on-exit)
 * [why i use process.on to catch all uncaughtException, pm2 will restart processes the same](https://github.com/Unitech/PM2/issues/721)
-
+* [Fork mode by default for Node.js 0.10.x](https://github.com/Unitech/PM2/issues/684)
 
 
 #### CoffeeScript
