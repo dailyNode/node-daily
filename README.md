@@ -18,6 +18,7 @@
 * [Security](#security)
 * [Modules](#modules)
 * [Fs](#fs)
+* [Path](#path)
 * [Events](#events)
 * [Http](#http)
 * [Process](#process)
@@ -169,6 +170,11 @@
 * [How to know the name of all the sub-folders](http://stackoverflow.com/questions/19252945/how-to-know-the-name-of-all-the-sub-folders/19253706#19253706)
 * [node.js glob pattern for excluding multiple files](http://stackoverflow.com/questions/23809897/node-js-glob-pattern-for-excluding-multiple-files)
 * [glob in Node.js and return only the match (no leading path)](http://stackoverflow.com/questions/8676979/glob-in-node-js-and-return-only-the-match-no-leading-path?rq=1)
+
+
+#### Path
+
+* [Get application full path in Node.js](http://stackoverflow.com/questions/18620270/get-application-full-path-in-node-js)
 
 
 
