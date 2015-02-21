@@ -220,6 +220,8 @@
 * [PM2 0.11 release](https://keymetrics.io/2014/10/15/pm2-0-11-release/)
 * [Goodbye node-forever, hello PM2](http://devo.ps/blog/goodbye-node-forever-hello-pm2/)
 * [cnode的jiyinyiyong翻译版本 -  forever 替代工具 pm2 的介绍](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
+* [node.js pm2 on exit](http://stackoverflow.com/questions/26163800/node-js-pm2-on-exit)
+* [why i use process.on to catch all uncaughtException, pm2 will restart processes the same](https://github.com/Unitech/PM2/issues/721)
 
 
 
@@ -340,6 +342,7 @@
 * [Node.js异常捕获的一些实践](http://www.alloyteam.com/2013/12/node-js-series-exception-caught/)
 * [Uncaught Exceptions in Node.js](http://shapeshed.com/uncaught-exceptions-in-node/)
 * [Remove process.on("uncaughtException", ...) handler](https://github.com/joyent/node/issues/2582)
+* [Node稳定性的研究心得](http://satans17.github.io/2014/05/04/node%E7%A8%B3%E5%AE%9A%E6%80%A7%E7%9A%84%E7%A0%94%E7%A9%B6%E5%BF%83%E5%BE%97/)
 
 
 #### Tools
