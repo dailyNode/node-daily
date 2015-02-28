@@ -204,6 +204,7 @@
 * [Eliminate HTTP Requests For JS Files – DynoSRC](http://www.webresourcesdepot.com/eliminate-http-requests-for-js-files-dynosrc/?utm_source=tuicool)
 * [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
 * [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
+* [Health monitoring of HTTP services and databases.](https://github.com/likeastore/heartbeat)
 
 
 #### Process
