@@ -471,6 +471,7 @@
 
 #### 待整理
 
+* [挖了一些关于nodejs的八卦](http://www.sunchangming.com/blog/post/4652.html)
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
