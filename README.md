@@ -110,6 +110,7 @@
 * [How do you install “development only” NPM modules for Node.js (package.json)?](http://stackoverflow.com/questions/9268259/how-do-you-install-development-only-npm-modules-for-node-js-package-json)
 * [option to not install devDependencies](https://github.com/npm/npm/issues/1434)
 * [task automation with npm run](http://substack.net/task_automation_with_npm_run)
+* [publishing-your-jquery-plugin-to-npm-the-quick](http://blog.npmjs.org/post/111475741445/publishing-your-jquery-plugin-to-npm-the-quick)
 
 
 
@@ -131,6 +132,7 @@
 * [io.js already in WebStorm](http://blog.jetbrains.com/webstorm/2015/01/io-js-already-in-webstorm/)
 * [How do I write files in node.js?](https://docs.nodejitsu.com/articles/file-system/how-to-write-files-in-nodejs)
 * [io.js - Windows 200ms delay issue](https://github.com/iojs/io.js/issues/254)
+* [Reconciliation Proposal - by mikeal in iojs repo](https://github.com/iojs/io.js/issues/978)
 
 
 
