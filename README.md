@@ -133,6 +133,7 @@
 * [How do I write files in node.js?](https://docs.nodejitsu.com/articles/file-system/how-to-write-files-in-nodejs)
 * [io.js - Windows 200ms delay issue](https://github.com/iojs/io.js/issues/254)
 * [Reconciliation Proposal - by mikeal in iojs repo](https://github.com/iojs/io.js/issues/978)
+* [On Moving to io.js](https://news.floobits.com/2015/02/23/on-moving-to-io.js/)
 
 
 
