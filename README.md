@@ -122,6 +122,7 @@
 * [Wrapping NPM Packages for Meteor](https://www.discovermeteor.com/blog/wrapping-npm-packages/)
 * [Use Buffers when decoding](https://github.com/ashtuchkin/iconv-lite/wiki/Use-Buffers-when-decoding)
 * ['binary' encoding is deprecated](http://nodejs.org/api/buffer.html#buffer_buffer)
+* [How to save precious bytes on a Node.js server](https://engineering.gosquared.com/optimise-node-http-server)
 
 
 
