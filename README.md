@@ -54,6 +54,7 @@
 * [REPL](#repl)
 * [Speed Node](#speed-node)
 * [工具包](#%E5%B7%A5%E5%85%B7%E5%8C%85)
+* [Test](#test)
 * [待整理](#%E5%BE%85%E6%95%B4%E7%90%86)
 
 #### What is node?
@@ -469,6 +470,10 @@
 
 后面写个脚本同步到专门的 repo
 
+
+#### Test
+
+* [Mocha中文指南](http://www.ifeenan.com/javascript/2015-02-26-Mocha%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97/)
 
 
 #### 待整理
