@@ -256,7 +256,7 @@
 #### PhantomJS
 
 * [PhantomJS 2.0 Release Notes](http://phantomjs.org/release-2.0.html)
-
+* [Horseman is a Node.js module that makes using PhantomJS a pleasure. ](http://www.horsemanjs.org/)
 
 #### Framework
 
