@@ -474,6 +474,7 @@
 #### Test
 
 * [Mocha中文指南](http://www.ifeenan.com/javascript/2015-02-26-Mocha%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97/)
+* [Jasmine中文指南](http://www.ifeenan.com/javascript/2015-02-25-Jasmine%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97/)
 
 
 #### 待整理
