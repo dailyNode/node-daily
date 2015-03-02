@@ -356,7 +356,7 @@
 * [Uncaught Exceptions in Node.js](http://shapeshed.com/uncaught-exceptions-in-node/)
 * [Remove process.on("uncaughtException", ...) handler](https://github.com/joyent/node/issues/2582)
 * [Node稳定性的研究心得](http://satans17.github.io/2014/05/04/node%E7%A8%B3%E5%AE%9A%E6%80%A7%E7%9A%84%E7%A0%94%E7%A9%B6%E5%BF%83%E5%BE%97/)
-
+* [Crash safety using domains in Node.js](https://engineering.gosquared.com/error-handling-using-domains-node-js)
 
 #### Tools
 
