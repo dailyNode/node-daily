@@ -414,7 +414,7 @@
 * [Simple hosted private npm and registry.nodejitsu.com](https://blog.nodejitsu.com/simple-hosted-private-npm-and-registry-nodejitsu-com/)
 * [modulus.io](https://modulus.io/)
 * [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
-
+* [Node.js and the Road Ahead](https://www.joyent.com/blog/node-js-and-the-road-ahead)
 
 
 #### Stream
