@@ -114,6 +114,7 @@
 * [publishing-your-jquery-plugin-to-npm-the-quick](http://blog.npmjs.org/post/111475741445/publishing-your-jquery-plugin-to-npm-the-quick)
 * [nodejs npm常用命令](http://www.cnblogs.com/linjiqin/p/3765772.html)
 * [Using jQuery plugins with npm](http://blog.npmjs.org/post/112064849860/using-jquery-plugins-with-npm)
+* [通过 npm使用jQuery 插件 - 来自@愚人码头](http://www.css88.com/archives/5537)
 
 #### Buffer
 
