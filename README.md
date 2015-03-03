@@ -113,7 +113,7 @@
 * [task automation with npm run](http://substack.net/task_automation_with_npm_run)
 * [publishing-your-jquery-plugin-to-npm-the-quick](http://blog.npmjs.org/post/111475741445/publishing-your-jquery-plugin-to-npm-the-quick)
 * [nodejs npm常用命令](http://www.cnblogs.com/linjiqin/p/3765772.html)
-
+* [Using jQuery plugins with npm](http://blog.npmjs.org/post/112064849860/using-jquery-plugins-with-npm)
 
 #### Buffer
 
