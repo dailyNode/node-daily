@@ -209,6 +209,7 @@
 * [nodejs connect cannot find static](http://stackoverflow.com/questions/24346161/nodejs-connect-cannot-find-static)
 * [nodejs connect usage of built in modules -> method not found](http://stackoverflow.com/questions/24336994/nodejs-connect-usage-of-built-in-modules-method-not-found)
 * [Health monitoring of HTTP services and databases.](https://github.com/likeastore/heartbeat)
+* [When should we use the PATCH HTTP method?](http://restcookbook.com/HTTP%20Methods/patch/)
 
 
 #### Process
