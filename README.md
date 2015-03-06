@@ -475,6 +475,8 @@
 
 后面写个脚本同步到专门的 repo
 
+* [Formatting in node-xlsx module](http://stackoverflow.com/questions/26989821/formatting-in-node-xlsx-module)
+
 
 #### Test
 
