@@ -476,6 +476,7 @@
 后面写个脚本同步到专门的 repo
 
 * [Formatting in node-xlsx module](http://stackoverflow.com/questions/26989821/formatting-in-node-xlsx-module)
+* [用NODEJS处理EXCEL文件](http://librajt.github.io/2013/08/04/handle-excel-file-with-nodejs/)
 
 
 #### Test
