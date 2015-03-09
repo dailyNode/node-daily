@@ -375,6 +375,7 @@
 * [9 anti-patterns - paypal](http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams)
 * [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
 * [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
+* [NodeJS in the enterprise world - the building infrastructure](http://blog.upwardsmotion.com/nodejs-in-the-enterprise-world-the-building-infrastructure/)
 
 
 
