@@ -376,6 +376,7 @@
 * [How I Got Node.js Running On A Linux Micro Instance Using Amazon EC2](http://www.bennadel.com/blog/2321-how-i-got-node-js-running-on-a-linux-micro-instance-using-amazon-ec2.htm)
 * [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
 * [NodeJS in the enterprise world - the building infrastructure](http://blog.upwardsmotion.com/nodejs-in-the-enterprise-world-the-building-infrastructure/)
+* [Node.js is taking over the Enterprise – whether you like it or not](http://www.centurylinkcloud.com/blog/post/node-js-is-taking-over-the-enterprise-whether-you-like-it-or-not)
 
 
 
@@ -506,3 +507,4 @@
 * [HTML minification?](http://stackoverflow.com/questions/728260/html-minification)
 * [Corporate involvement / balance / representation in Advisory Board makeup](https://github.com/joyent/nodejs-advisory-board/issues/4#issuecomment-70179059)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
+* [阿里前端哪个部门用nodejs多一些 想要实习内推 但是对部门和相应的机会不了解 求回答？](http://www.zhihu.com/question/28534772)
