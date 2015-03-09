@@ -508,3 +508,4 @@
 * [Corporate involvement / balance / representation in Advisory Board makeup](https://github.com/joyent/nodejs-advisory-board/issues/4#issuecomment-70179059)
 * [Joyent And node.js Vs. Ben Noordhuis](http://www.realfreemarket.org/blog/2013/12/10/joyent-and-node-js-vs-ben-noordhuis/)
 * [阿里前端哪个部门用nodejs多一些 想要实习内推 但是对部门和相应的机会不了解 求回答？](http://www.zhihu.com/question/28534772)
+* [Linux搭建Nodebb论坛指南-安装篇](http://my.oschina.net/bfleeee/blog/268994)
