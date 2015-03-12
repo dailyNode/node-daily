@@ -118,6 +118,7 @@
 * [国内优秀npm镜像推荐及使用 - 来自segmentfault](http://segmentfault.net/blog/LJ_ome/1190000002576600)
 * [No More Global npm Packages](http://www.joezimjs.com/javascript/no-more-global-npm-packages/)
 * [NPM 3.0 要来了 - by @goddyzhao](http://du.jie.io/p/2015-03-11-npm-3-is-coming-by-goddyzhao.html)
+* [npm - Roadmap](https://github.com/npm/npm/wiki/Roadmap)
 
 #### Buffer
 
