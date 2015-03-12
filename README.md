@@ -164,6 +164,7 @@
 * [Node.js Security Tips](http://blog.risingstack.com/node-js-security-tips/)
 * [Node安全项目要进一步提升Node.js的安全性](http://www.infoq.com/cn/news/2014/06/nodejs-security-project)
 * [JavaScript安全从浏览器到服务端](http://share.csdn.net/slides/771)
+* [NodeJS 应用仓库钓鱼](http://www.cnblogs.com/index-html/p/npm_package_phishing.html)
 
 
 #### Modules
