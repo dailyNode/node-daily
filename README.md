@@ -515,5 +515,6 @@
 * [阿里前端哪个部门用nodejs多一些 想要实习内推 但是对部门和相应的机会不了解 求回答？](http://www.zhihu.com/question/28534772)
 * [Linux搭建Nodebb论坛指南-安装篇](http://my.oschina.net/bfleeee/blog/268994)
 * [nodebb - 中文在线文档](https://docs.nodebb.org/zh_CN/latest/index.html)
+* [Node 小报二月十六日](http://chuo.me/2015/02/node-weekly-w7.html)
 * [Node 小报三月六日](http://chuo.me/2015/03/node-weekly-w10.html)
 * [Node 小报第十一周](http://chuo.me/2015/03/node-weekly-w11.html)
