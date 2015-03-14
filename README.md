@@ -79,6 +79,7 @@
 * [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
 * [What Makes Node.js Faster Than Java?](http://strongloop.com/strongblog/node-js-is-faster-than-java/)
 * [用nodejs开发的网站用什么作服务器端比较好？ NGNIX? APACHE?](http://cnodejs.org/topic/53a5331ba087f4562068090c)
+* [Why The Hell Would I Use Node.js? A Case-by-Case Tutorial](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 
 
 
@@ -156,6 +157,7 @@
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 * [eloquentjavascript - introduce you to Node.js nodejs](http://eloquentjavascript.net/20_node.html) !!!
 * [Sam's Teach Yourself Node.js in 24 Hours](http://nodejsbook.io/)
+* [Node.js 概述-- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/nodejs/basic.html)
 
 
 #### Security
