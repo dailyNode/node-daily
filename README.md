@@ -12,7 +12,7 @@
 * [Why not node?](#why-not-node)
 * [Node Style](#node-style)
 * [Npm](#npm)
-* [Buffer](#buffer)
+* [Buffer](#buffer)      *
 * [IO.js](#iojs)
 * [Node Book](#node-book)
 * [Security](#security)
@@ -20,6 +20,7 @@
 * [Fs](#fs)
 * [Path](#path)
 * [Events](#events)
+* [Uncaught_exceptions](#uncaught_exceptions)
 * [Http](#http)
 * [Process](#process)
 * [Child_process](#child_process)
@@ -190,6 +191,11 @@
 
 * [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
+
+
+#### Uncaught_exceptions
+
+* [Uncaught-exceptions in node](http://shapeshed.com/uncaught-exceptions-in-node/)
 
 
 
