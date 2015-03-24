@@ -122,6 +122,7 @@
 * [NPM 3.0 要来了 - by @goddyzhao](http://du.jie.io/p/2015-03-11-npm-3-is-coming-by-goddyzhao.html)
 * [npm - Roadmap](https://github.com/npm/npm/wiki/Roadmap)
 * [Should I .npmignore my tests?](http://stackoverflow.com/questions/25124844/should-i-npmignore-my-tests)
+* [Does NPM ignore files listed in .gitignore?](http://stackoverflow.com/questions/24942161/does-npm-ignore-files-listed-in-gitignore)
 
 #### Buffer
 
