@@ -121,6 +121,7 @@
 * [No More Global npm Packages](http://www.joezimjs.com/javascript/no-more-global-npm-packages/)
 * [NPM 3.0 要来了 - by @goddyzhao](http://du.jie.io/p/2015-03-11-npm-3-is-coming-by-goddyzhao.html)
 * [npm - Roadmap](https://github.com/npm/npm/wiki/Roadmap)
+* [Should I .npmignore my tests?](http://stackoverflow.com/questions/25124844/should-i-npmignore-my-tests)
 
 #### Buffer
 
