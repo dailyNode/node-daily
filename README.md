@@ -56,6 +56,7 @@
 * [Speed Node](#speed-node)
 * [工具包](#%E5%B7%A5%E5%85%B7%E5%8C%85)
 * [Test](#test)
+* [Pomelo](#pomelo)
 * [待整理](#%E5%BE%85%E6%95%B4%E7%90%86)
 
 #### What is node?
@@ -500,6 +501,10 @@
 * [Jasmine中文指南](http://www.ifeenan.com/javascript/2015-02-25-Jasmine%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97/)
 
 
+#### Pomelo
+
+* [Welcome to pomelo](https://github.com/NetEase/pomelo/wiki/Welcome-to-Pomelo)
+
 #### 待整理
 
 * [挖了一些关于nodejs的八卦](http://www.sunchangming.com/blog/post/4652.html)
@@ -526,3 +531,4 @@
 * [Node 小报二月十六日](http://chuo.me/2015/02/node-weekly-w7.html)
 * [Node 小报三月六日](http://chuo.me/2015/03/node-weekly-w10.html)
 * [Node 小报第十一周](http://chuo.me/2015/03/node-weekly-w11.html)
+* [Top 10 Common Node.js Developer Mistakes](http://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)
