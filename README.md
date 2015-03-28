@@ -391,6 +391,7 @@
 * [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
 * [NodeJS in the enterprise world - the building infrastructure](http://blog.upwardsmotion.com/nodejs-in-the-enterprise-world-the-building-infrastructure/)
 * [Node.js is taking over the Enterprise – whether you like it or not](http://www.centurylinkcloud.com/blog/post/node-js-is-taking-over-the-enterprise-whether-you-like-it-or-not)
+* [Node.js Production Checklist](http://blog.risingstack.com/node-js-production-checklist/)
 
 
 
