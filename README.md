@@ -402,6 +402,7 @@
 * [Use NodeJS and Arduino to build a weather display](http://www.node-disassemble.com/2014/09/04/lcd-weather-display/?utm_source=javascriptweekly&utm_medium=email)
 * [Xvfb+YSlow+ShowSlow搭建前端性能测试框架](http://ued.taobao.org/blog/2010/07/xvfb_yslow_showslow-2/)
 * [Building high quality services at Uber with Node.js](https://www.youtube.com/watch?v=1RMWS60gGUY)
+* [how-i-build-nodejs-applications](http://blog.ragingflame.co.za/2015/4/1/how-i-build-nodejs-applications)
 
 
 #### Follow them
