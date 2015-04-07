@@ -125,6 +125,7 @@
 * [Should I .npmignore my tests?](http://stackoverflow.com/questions/25124844/should-i-npmignore-my-tests)
 * [Does NPM ignore files listed in .gitignore?](http://stackoverflow.com/questions/24942161/does-npm-ignore-files-listed-in-gitignore)
 * [Introducing the npm semantic version calculator](http://blog.npmjs.org/post/115305091285/introducing-the-npm-semantic-version-calculator)
+* [NPM for Everything](http://beletsky.net/2015/04/npm-for-everything.html)
 
 #### Buffer
 
