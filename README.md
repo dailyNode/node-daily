@@ -127,6 +127,7 @@
 * [Introducing the npm semantic version calculator](http://blog.npmjs.org/post/115305091285/introducing-the-npm-semantic-version-calculator)
 * [NPM for Everything](http://beletsky.net/2015/04/npm-for-everything.html)
 * [npm Private Modules](https://www.npmjs.com/private-modules)
+* [Interactively create a package.json file](https://docs.npmjs.com/cli/init)
 
 #### Buffer
 
