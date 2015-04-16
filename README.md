@@ -126,6 +126,7 @@
 * [Does NPM ignore files listed in .gitignore?](http://stackoverflow.com/questions/24942161/does-npm-ignore-files-listed-in-gitignore)
 * [Introducing the npm semantic version calculator](http://blog.npmjs.org/post/115305091285/introducing-the-npm-semantic-version-calculator)
 * [NPM for Everything](http://beletsky.net/2015/04/npm-for-everything.html)
+* [npm Private Modules](https://www.npmjs.com/private-modules)
 
 #### Buffer
 
