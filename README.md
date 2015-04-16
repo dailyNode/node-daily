@@ -540,3 +540,4 @@
 * [Node 小报第十一周](http://chuo.me/2015/03/node-weekly-w11.html)
 * [Top 10 Common Node.js Developer Mistakes](http://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)
 * [Top 7 Node.js performance tips you can adopt today](http://www.devbattles.com/en/sand/post-1022-+Top+7+Node.js+performance+tips+you+can+adopt+today)
+* [解读2014之前端篇：任性的颠覆式改变](http://www.infoq.com/cn/articles/2014-review-front-end-part)
