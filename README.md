@@ -314,6 +314,7 @@
 * [node-debug 三法三例之node debugger + node inspector](https://cnodejs.org/topic/5463f6e872f405c829029f7e)
 * [学习NodeJS第三天：打造Nodejs的调试环境（中）](http://blog.csdn.net/zhangxin09/article/details/5911643)
 * [学习NodeJS第四天：初始化nodejs的历险之旅（下）](http://blog.csdn.net/zhangxin09/article/details/5911643)
+* [使用 debug 调试代码](http://chuo.me/2015/04/debug.html)
 
 
 
