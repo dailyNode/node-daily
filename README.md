@@ -544,3 +544,4 @@
 * [Top 7 Node.js performance tips you can adopt today](http://www.devbattles.com/en/sand/post-1022-+Top+7+Node.js+performance+tips+you+can+adopt+today)
 * [解读2014之前端篇：任性的颠覆式改变](http://www.infoq.com/cn/articles/2014-review-front-end-part)
 * [Node.js Best Practices - Part 2](http://blog.risingstack.com/node-js-best-practices-part-2/)
+* [How Google Sees Node.js](http://blog.risingstack.com/how-google-sees-node-js/)
