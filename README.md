@@ -545,3 +545,4 @@
 * [解读2014之前端篇：任性的颠覆式改变](http://www.infoq.com/cn/articles/2014-review-front-end-part)
 * [Node.js Best Practices - Part 2](http://blog.risingstack.com/node-js-best-practices-part-2/)
 * [How Google Sees Node.js](http://blog.risingstack.com/how-google-sees-node-js/)
+* [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
