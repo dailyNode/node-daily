@@ -305,6 +305,7 @@
 * [helmet - Collection of middleware to implement various security headers for Express / Connect](https://github.com/evilpacket/helmet)
 * [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](http://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 * [Intro to Express.js: Parameters, Error Handling and Other Middleware](http://webapplog.com/intro-to-express-js-parameters-error-handling-and-other-middleware/)
+* [How to Write Middleware for Express.js Apps](https://stormpath.com/blog/how-to-write-middleware-for-express-apps)
 
 
 #### Debug
@@ -408,6 +409,7 @@
 * [Xvfb+YSlow+ShowSlow搭建前端性能测试框架](http://ued.taobao.org/blog/2010/07/xvfb_yslow_showslow-2/)
 * [Building high quality services at Uber with Node.js](https://www.youtube.com/watch?v=1RMWS60gGUY)
 * [how-i-build-nodejs-applications](http://blog.ragingflame.co.za/2015/4/1/how-i-build-nodejs-applications)
+* [Buckets - A fast, simple way to manage website content with Node.js.]()
 
 
 #### Follow them
