@@ -549,3 +549,4 @@
 * [Node.js Best Practices - Part 2](http://blog.risingstack.com/node-js-best-practices-part-2/)
 * [How Google Sees Node.js](http://blog.risingstack.com/how-google-sees-node-js/)
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
+* [Multi Threads In Node.js](http://www.tikalk.com/js/multithreads-in-nodejs/)
