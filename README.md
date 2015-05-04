@@ -130,6 +130,7 @@
 * [Interactively create a package.json file](https://docs.npmjs.com/cli/init)
 * [user "root" does not have permission to access the dev dir "/.node-gyp/0.12.1"](https://github.com/npm/npm/issues/7764)
 * [Warning "root" does not have permission to access the dev dir](https://github.com/TooTallNate/node-gyp/issues/454)
+* [npm fails to install if there is a file named 'tmp' in the user's HOME directory](https://github.com/npm/npm/issues/3470)
 
 #### Buffer
 
