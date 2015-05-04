@@ -555,3 +555,4 @@
 * [Multi Threads In Node.js](http://www.tikalk.com/js/multithreads-in-nodejs/)
 * [user "root" does not have permission to access the dev dir "*/.node-gyp/0.10.37"](http://hongtoushizi.iteye.com/blog/2200327)
 * [Creating packages](http://bower.io/docs/creating-packages/)
+* [How to register your library or component in Bower](http://devhike.blogspot.hk/2013/06/how-to-register-your-library-or.html)
