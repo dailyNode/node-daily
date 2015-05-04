@@ -128,6 +128,7 @@
 * [NPM for Everything](http://beletsky.net/2015/04/npm-for-everything.html)
 * [npm Private Modules](https://www.npmjs.com/private-modules)
 * [Interactively create a package.json file](https://docs.npmjs.com/cli/init)
+* [user "root" does not have permission to access the dev dir "/.node-gyp/0.12.1"](https://github.com/npm/npm/issues/7764)
 
 #### Buffer
 
