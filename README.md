@@ -550,3 +550,4 @@
 * [How Google Sees Node.js](http://blog.risingstack.com/how-google-sees-node-js/)
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
 * [Multi Threads In Node.js](http://www.tikalk.com/js/multithreads-in-nodejs/)
+* [user "root" does not have permission to access the dev dir "*/.node-gyp/0.10.37"](http://hongtoushizi.iteye.com/blog/2200327)
