@@ -454,6 +454,7 @@
 
 * [how to write node programs with streams](https://github.com/substack/stream-handbook)
 * [Functional Reactive Programming with the Power of Node.js Streams](http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/)
+* [Basic use of Node.js streams](http://codewinds.com/blog/2013-08-02-streams-basics.html)
 
 
 #### Version
@@ -556,3 +557,4 @@
 * [user "root" does not have permission to access the dev dir "*/.node-gyp/0.10.37"](http://hongtoushizi.iteye.com/blog/2200327)
 * [Creating packages](http://bower.io/docs/creating-packages/)
 * [How to register your library or component in Bower](http://devhike.blogspot.hk/2013/06/how-to-register-your-library-or.html)
+* [Creating and maintaining your own Bower package](http://bob.yexley.net/creating-and-maintaining-your-own-bower-package/)
