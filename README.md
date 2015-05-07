@@ -131,6 +131,7 @@
 * [user "root" does not have permission to access the dev dir "/.node-gyp/0.12.1"](https://github.com/npm/npm/issues/7764)
 * [Warning "root" does not have permission to access the dev dir](https://github.com/TooTallNate/node-gyp/issues/454)
 * [npm fails to install if there is a file named 'tmp' in the user's HOME directory](https://github.com/npm/npm/issues/3470)
+* [npm’s Self-Signed Certificate is No More](http://blog.npmjs.org/post/78085451721/npms-self-signed-certificate-is-no-more)
 
 #### Buffer
 
