@@ -558,3 +558,4 @@
 * [Creating packages](http://bower.io/docs/creating-packages/)
 * [How to register your library or component in Bower](http://devhike.blogspot.hk/2013/06/how-to-register-your-library-or.html)
 * [Creating and maintaining your own Bower package](http://bob.yexley.net/creating-and-maintaining-your-own-bower-package/)
+* [Hacking NodeJS and MongoDB](http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html)
