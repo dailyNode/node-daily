@@ -561,3 +561,4 @@
 * [Creating and maintaining your own Bower package](http://bob.yexley.net/creating-and-maintaining-your-own-bower-package/)
 * [Hacking NodeJS and MongoDB](http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html)
 * [redis快速入门教程](http://outofmemory.cn/redis/quick-tutorial)
+* [TypeScript 入门指南](http://www.oschina.net/question/12_72250)
