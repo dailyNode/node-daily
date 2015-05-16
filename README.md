@@ -563,3 +563,4 @@
 * [redis快速入门教程](http://outofmemory.cn/redis/quick-tutorial)
 * [TypeScript 入门指南](http://www.oschina.net/question/12_72250)
 * [Node.js cms framework comparison](http://blog.budacode.com/2015/05/08/node-js-cms-framework-comparison/)
+* [The Node.js Foundation benefits all ](http://blog.nodejs.org/2015/05/15/the-nodejs-foundation-benefits-all/)
