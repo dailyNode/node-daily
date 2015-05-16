@@ -565,3 +565,4 @@
 * [Node.js cms framework comparison](http://blog.budacode.com/2015/05/08/node-js-cms-framework-comparison/)
 * [The Node.js Foundation benefits all ](http://blog.nodejs.org/2015/05/15/the-nodejs-foundation-benefits-all/)
 * [Node.js Foundation](https://nodejs.org/foundation/)
+* [Joyent Is About To Replace Its CEO (Again) With An Executive Poached From Cisco](http://www.businessinsider.com/joyent-has-new-ceo-from-cisco-2014-6#ixzz3aJTmWSCn)
