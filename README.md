@@ -570,3 +570,4 @@
 * [linux yum命令详解](http://www.cnblogs.com/chuncn/archive/2010/10/17/1853915.html)
 * [Performance Showdown: Node.js vs. io.js v2.0.0](https://raygun.io/blog/2015/05/performance-showdown-node-js-vs-io-js-v2-0-0/)
 * [Node lead TJ Fontaine is stepping down and leaving Joyent, too](http://venturebeat.com/2015/05/08/node-lead-tj-fontaine-is-stepping-down-and-leaving-joyent-too/)
+* [Next Chapter](http://blog.nodejs.org/2015/05/08/next-chapter/)
