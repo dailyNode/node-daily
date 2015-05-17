@@ -566,3 +566,4 @@
 * [The Node.js Foundation benefits all ](http://blog.nodejs.org/2015/05/15/the-nodejs-foundation-benefits-all/)
 * [Node.js Foundation](https://nodejs.org/foundation/)
 * [Joyent Is About To Replace Its CEO (Again) With An Executive Poached From Cisco](http://www.businessinsider.com/joyent-has-new-ceo-from-cisco-2014-6#ixzz3aJTmWSCn)
+* [linux yum命令详解](http://www.cnblogs.com/chuncn/archive/2010/10/17/1853915.html)
