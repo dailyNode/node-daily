@@ -569,3 +569,4 @@
 * [Joyent Is About To Replace Its CEO (Again) With An Executive Poached From Cisco](http://www.businessinsider.com/joyent-has-new-ceo-from-cisco-2014-6#ixzz3aJTmWSCn)
 * [linux yum命令详解](http://www.cnblogs.com/chuncn/archive/2010/10/17/1853915.html)
 * [Performance Showdown: Node.js vs. io.js v2.0.0](https://raygun.io/blog/2015/05/performance-showdown-node-js-vs-io-js-v2-0-0/)
+* [Node lead TJ Fontaine is stepping down and leaving Joyent, too](http://venturebeat.com/2015/05/08/node-lead-tj-fontaine-is-stepping-down-and-leaving-joyent-too/)
