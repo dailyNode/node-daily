@@ -477,6 +477,7 @@
 
 * [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
 * [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
+* [How can git be installed on CENTOS 5.5?](http://stackoverflow.com/questions/3779274/how-can-git-be-installed-on-centos-5-5)
 
 
 #### OS
