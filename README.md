@@ -572,3 +572,4 @@
 * [Performance Showdown: Node.js vs. io.js v2.0.0](https://raygun.io/blog/2015/05/performance-showdown-node-js-vs-io-js-v2-0-0/)
 * [Node lead TJ Fontaine is stepping down and leaving Joyent, too](http://venturebeat.com/2015/05/08/node-lead-tj-fontaine-is-stepping-down-and-leaving-joyent-too/)
 * [Next Chapter](http://blog.nodejs.org/2015/05/08/next-chapter/)
+* [MongoDB 3.0 正式版即将发布，将进入全新发展阶段](http://www.infoq.com/cn/news/2015/02/mongodb-3-will-release)
