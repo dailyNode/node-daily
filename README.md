@@ -573,3 +573,4 @@
 * [Node lead TJ Fontaine is stepping down and leaving Joyent, too](http://venturebeat.com/2015/05/08/node-lead-tj-fontaine-is-stepping-down-and-leaving-joyent-too/)
 * [Next Chapter](http://blog.nodejs.org/2015/05/08/next-chapter/)
 * [MongoDB 3.0 正式版即将发布，将进入全新发展阶段](http://www.infoq.com/cn/news/2015/02/mongodb-3-will-release)
+* [Everyauth vs Passport.js?](http://stackoverflow.com/questions/11974947/everyauth-vs-passport-js)
