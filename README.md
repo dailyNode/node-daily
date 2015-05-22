@@ -577,3 +577,4 @@
 * [Get error logs directory - PM2](https://github.com/Unitech/pm2/issues/537)
 * [pm2.log and pm2.pid files location](https://github.com/Unitech/pm2/issues/438)
 * [Errored but no information (coffee script?) - PM2](https://github.com/Unitech/pm2/issues/488)
+* [15 restarts, no logs - PM2](https://github.com/Unitech/pm2/issues/546)
