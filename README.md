@@ -575,3 +575,4 @@
 * [MongoDB 3.0 正式版即将发布，将进入全新发展阶段](http://www.infoq.com/cn/news/2015/02/mongodb-3-will-release)
 * [Everyauth vs Passport.js?](http://stackoverflow.com/questions/11974947/everyauth-vs-passport-js)
 * [Get error logs directory - PM2](https://github.com/Unitech/pm2/issues/537)
+* [pm2.log and pm2.pid files location](https://github.com/Unitech/pm2/issues/438)
