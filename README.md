@@ -579,3 +579,4 @@
 * [Errored but no information (coffee script?) - PM2](https://github.com/Unitech/pm2/issues/488)
 * [15 restarts, no logs - PM2](https://github.com/Unitech/pm2/issues/546)
 * [Adds option to switch to a different user/group before starting a managed process](https://github.com/Unitech/PM2/pull/329#issuecomment-47815701)
+* [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
