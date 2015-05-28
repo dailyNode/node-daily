@@ -582,3 +582,4 @@
 * [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
 * [Node.js与io.js那些事儿](http://www.infoq.com/cn/articles/node-js-and-io-js)
 * [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
+* [Twitatron: Building a Production Web App With Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
