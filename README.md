@@ -581,3 +581,4 @@
 * [Adds option to switch to a different user/group before starting a managed process](https://github.com/Unitech/PM2/pull/329#issuecomment-47815701)
 * [Node.js Scraping Libraries](http://blog.webkid.io/nodejs-scraping-libraries/)
 * [Node.js与io.js那些事儿](http://www.infoq.com/cn/articles/node-js-and-io-js)
+* [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
