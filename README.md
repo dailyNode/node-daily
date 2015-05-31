@@ -585,4 +585,5 @@
 * [Bower Resolutions](http://jaketrent.com/post/bower-resolutions/)
 * [Twitatron: Building a Production Web App With Node - User Accounts](http://scottksmith.com/blog/2015/05/26/twitatron-building-a-production-web-app-with-node-user-accounts/)
 * [Do not forget to use Gzip for Express.js](http://inspiredjw.com/do-not-forget-to-use-gzip-for-express/)
+* [Node.js testing - busterjs](http://docs.busterjs.org/en/latest/node-testing/#getting-started)
 * [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
