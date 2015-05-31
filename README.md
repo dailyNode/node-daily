@@ -460,43 +460,43 @@
 
 #### Version
 
-* [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
-* [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
-* [The Set problem with 0.11.14 [v8 upgrade]](https://github.com/joyent/node/issues/8449)
-* [How can I update NodeJS and Npm for the next versions?](http://stackoverflow.com/questions/6237295/how-can-i-update-nodejs-and-npm-for-the-next-versions)
-* [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
+1. [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
+2. [What’s New in Node.js v0.12 – Performance Optimizations](http://strongloop.com/strongblog/performance-node-js-v-0-12-whats-new/)
+3. [The Set problem with 0.11.14 [v8 upgrade]](https://github.com/joyent/node/issues/8449)
+4. [How can I update NodeJS and Npm for the next versions?](http://stackoverflow.com/questions/6237295/how-can-i-update-nodejs-and-npm-for-the-next-versions)
+5. [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
 
 
 #### Grunt
 
-* [Running grunt task with api, without command line](http://stackoverflow.com/questions/16564064/running-grunt-task-with-api-without-command-line)
-* [Running Grunt tasks without grunt-cli](http://www.andrewduthie.com/post/running-grunt-tasks-without-grunt-cli/)
+1. [Running grunt task with api, without command line](http://stackoverflow.com/questions/16564064/running-grunt-task-with-api-without-command-line)
+2. [Running Grunt tasks without grunt-cli](http://www.andrewduthie.com/post/running-grunt-tasks-without-grunt-cli/)
 
 
 #### Github
 
-* [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
-* [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
-* [How can git be installed on CENTOS 5.5?](http://stackoverflow.com/questions/3779274/how-can-git-be-installed-on-centos-5-5)
+1. [calling the github API with node.js](http://www.garann.com/dev/2011/calling-the-github-api-with-node-js/)
+2. [node_modules in git](http://www.futurealoof.com/posts/nodemodules-in-git.html)
+3. [How can git be installed on CENTOS 5.5?](http://stackoverflow.com/questions/3779274/how-can-git-be-installed-on-centos-5-5)
 
 
 #### OS
 
-* [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
-* [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
-* [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
+1. [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
+2. [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
+3. [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
 
 
 #### REPL
 
-* [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
-* [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
+1. [Creating an access token for command-line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
+2. [Writing a Command Line Node Tool](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
 
 
 #### Speed Node
 
-* [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
-* [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
+1. [Resources to Get You Up to Speed in Node.js](http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431)
+2. [Save time managing and deploying your node.js app](https://www.nodejitsu.com/)
 
 
 
