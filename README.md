@@ -512,10 +512,10 @@
 
 #### Test
 
-* [Mocha中文指南](http://www.ifeenan.com/javascript/2015-02-26-Mocha%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97/)
-* [Jasmine中文指南](http://www.ifeenan.com/javascript/2015-02-25-Jasmine%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97/)
-* [Writing Automated Tests with Mocha and Chai](http://zsolt-nagy.github.io/Writing-Automated-Tests-with-Mocha-and-Chai/)
-* [使用 coffee 来测试 cli 命令行工具](http://fengmk2.com/blog/2015/test-cli-with-coffee.html)
+1. [Mocha中文指南](http://www.ifeenan.com/javascript/2015-02-26-Mocha%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97/)
+2. [Jasmine中文指南](http://www.ifeenan.com/javascript/2015-02-25-Jasmine%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97/)
+3. [Writing Automated Tests with Mocha and Chai](http://zsolt-nagy.github.io/Writing-Automated-Tests-with-Mocha-and-Chai/)
+4. [使用 coffee 来测试 cli 命令行工具](http://fengmk2.com/blog/2015/test-cli-with-coffee.html)
 
 
 #### Pomelo
