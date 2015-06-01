@@ -587,3 +587,4 @@
 * [Do not forget to use Gzip for Express.js](http://inspiredjw.com/do-not-forget-to-use-gzip-for-express/)
 * [Node.js testing - busterjs](http://docs.busterjs.org/en/latest/node-testing/#getting-started)
 * [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
+* [老雷的资料库 - nodejs分类](http://blog.ucdok.com/?tag=Node.js)
