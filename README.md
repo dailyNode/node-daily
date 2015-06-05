@@ -589,3 +589,4 @@
 * [Node.js testing - busterjs](http://docs.busterjs.org/en/latest/node-testing/#getting-started)
 * [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
 * [老雷的资料库 - nodejs分类](http://blog.ucdok.com/?tag=Node.js)
+* [jsdom 4.x onward only works on io.js, not Node.js](http://www.evilcoder.net/2015/05/25/jsdom-4-x-onward-only-works-on-io-js-not-node-js/)
