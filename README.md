@@ -590,3 +590,5 @@
 * [Cluster is Faster and Easier Than Async](http://synsem.com/SyncNotAsync/)
 * [老雷的资料库 - nodejs分类](http://blog.ucdok.com/?tag=Node.js)
 * [jsdom 4.x onward only works on io.js, not Node.js](http://www.evilcoder.net/2015/05/25/jsdom-4-x-onward-only-works-on-io-js-not-node-js/)
+* [node framework](http://nodeframework.com/index.html#rest-api)
+* [Deep inside Node.js with Ryan Dahl](http://www.infoq.com/interviews/node-ryan-dahl)
