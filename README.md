@@ -592,3 +592,4 @@
 * [jsdom 4.x onward only works on io.js, not Node.js](http://www.evilcoder.net/2015/05/25/jsdom-4-x-onward-only-works-on-io-js-not-node-js/)
 * [node framework](http://nodeframework.com/index.html#rest-api)
 * [Deep inside Node.js with Ryan Dahl](http://www.infoq.com/interviews/node-ryan-dahl)
+* [专访雪球网技术团队：用Node.js做前端的类SOA架构](http://www.infoq.com/cn/news/2012/04/interview-xueqiu-using-nodejs)
