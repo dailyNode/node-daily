@@ -593,3 +593,4 @@
 * [node framework](http://nodeframework.com/index.html#rest-api)
 * [Deep inside Node.js with Ryan Dahl](http://www.infoq.com/interviews/node-ryan-dahl)
 * [专访雪球网技术团队：用Node.js做前端的类SOA架构](http://www.infoq.com/cn/news/2012/04/interview-xueqiu-using-nodejs)
+* [Use Node.js to Extract Data from the Web for Fun and Profit](http://www.storminthecastle.com/2013/08/25/use-node-js-to-extract-data-from-the-web-for-fun-and-profit/)
