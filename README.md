@@ -595,3 +595,4 @@
 * [专访雪球网技术团队：用Node.js做前端的类SOA架构](http://www.infoq.com/cn/news/2012/04/interview-xueqiu-using-nodejs)
 * [Use Node.js to Extract Data from the Web for Fun and Profit](http://www.storminthecastle.com/2013/08/25/use-node-js-to-extract-data-from-the-web-for-fun-and-profit/)
 * [使用node.js cheerio抓取网页数据](http://www.75team.com/archives/543)
+* [一个前端工程师眼里的NodeJS](http://www.infoq.com/cn/articles/nodejs-in-front-end-engineer-view)
