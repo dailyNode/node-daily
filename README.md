@@ -598,3 +598,4 @@
 * [一个前端工程师眼里的NodeJS](http://www.infoq.com/cn/articles/nodejs-in-front-end-engineer-view)
 * [10 Habits of a Happy Node Hacker](https://blog.heroku.com/archives/2014/3/11/node-habits)
 * [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
+* [如何自己检查NodeJS的代码是否存在内存泄漏 - w3ctech](http://www.w3ctech.com/topic/842)
