@@ -596,3 +596,4 @@
 * [Use Node.js to Extract Data from the Web for Fun and Profit](http://www.storminthecastle.com/2013/08/25/use-node-js-to-extract-data-from-the-web-for-fun-and-profit/)
 * [使用node.js cheerio抓取网页数据](http://www.75team.com/archives/543)
 * [一个前端工程师眼里的NodeJS](http://www.infoq.com/cn/articles/nodejs-in-front-end-engineer-view)
+* [10 Habits of a Happy Node Hacker](https://blog.heroku.com/archives/2014/3/11/node-habits)
