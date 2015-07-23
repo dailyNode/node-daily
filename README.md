@@ -597,3 +597,4 @@
 * [使用node.js cheerio抓取网页数据](http://www.75team.com/archives/543)
 * [一个前端工程师眼里的NodeJS](http://www.infoq.com/cn/articles/nodejs-in-front-end-engineer-view)
 * [10 Habits of a Happy Node Hacker](https://blog.heroku.com/archives/2014/3/11/node-habits)
+* [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
