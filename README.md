@@ -599,3 +599,4 @@
 * [10 Habits of a Happy Node Hacker](https://blog.heroku.com/archives/2014/3/11/node-habits)
 * [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
 * [如何自己检查NodeJS的代码是否存在内存泄漏 - w3ctech](http://www.w3ctech.com/topic/842)
+* [在Node.js中搭建缓存管理模块](http://www.infoq.com/cn/articles/built-cache-management-module-in-nodejs)
