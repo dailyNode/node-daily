@@ -601,3 +601,4 @@
 * [如何自己检查NodeJS的代码是否存在内存泄漏 - w3ctech](http://www.w3ctech.com/topic/842)
 * [在Node.js中搭建缓存管理模块](http://www.infoq.com/cn/articles/built-cache-management-module-in-nodejs)
 * [An Open Letter to JavaScript Leaders Regarding Semicolons](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding)
+* [node "Can't set headers after they are sent"](http://www.cppblog.com/dead-horse/archive/2011/08/12/153110.html)
