@@ -56,6 +56,7 @@
 * [Speed Node](#speed-node)
 * [工具包](#%E5%B7%A5%E5%85%B7%E5%8C%85)
 * [Test](#test)
+* [V4](#v4)
 * [Pomelo](#pomelo)
 * [待整理](#%E5%BE%85%E6%95%B4%E7%90%86)
 
@@ -518,6 +519,9 @@
 3. [Writing Automated Tests with Mocha and Chai](http://zsolt-nagy.github.io/Writing-Automated-Tests-with-Mocha-and-Chai/)
 4. [使用 coffee 来测试 cli 命令行工具](http://fengmk2.com/blog/2015/test-cli-with-coffee.html)
 
+#### V4
+
+* [7 Reasons to Upgrade to Node v4 Now](http://www.cli-nerd.com/2015/09/09/7-reasons-to-upgrade-to-node-v4-now.html)
 
 #### Pomelo
 
