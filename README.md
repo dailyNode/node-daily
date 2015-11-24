@@ -312,6 +312,7 @@
 * [Comparing Express, Restify, hapi and LoopBack for building RESTful APIs](http://strongloop.com/strongblog/compare-express-restify-hapi-loopback/)
 * [Intro to Express.js: Parameters, Error Handling and Other Middleware](http://webapplog.com/intro-to-express-js-parameters-error-handling-and-other-middleware/)
 * [How to Write Middleware for Express.js Apps](https://stormpath.com/blog/how-to-write-middleware-for-express-apps)
+* [Can't get rid of header X-Powered-By:Express](http://stackoverflow.com/questions/5867199/cant-get-rid-of-header-x-powered-byexpress)
 
 
 #### Debug
